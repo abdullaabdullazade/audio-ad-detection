@@ -1,0 +1,4191 @@
+{
+  "recordings": [
+    {
+      "file": "2026-06-11-00-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 42.091667938
+    },
+    {
+      "file": "2026-06-11-00-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 41.124156302
+    },
+    {
+      "file": "2026-06-11-00-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.036394699
+    },
+    {
+      "file": "2026-06-11-00-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 40.547770447
+    },
+    {
+      "file": "2026-06-11-00-00-08_real_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 42.281813634
+    },
+    {
+      "file": "2026-06-11-00-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.671139903
+    },
+    {
+      "file": "2026-06-11-00-00-10_tmb_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.302323272
+    },
+    {
+      "file": "2026-06-11-00-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 39.946115875
+    },
+    {
+      "file": "2026-06-11-00-00-13_media_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.222667498
+    },
+    {
+      "file": "2026-06-11-00-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.643016747
+    },
+    {
+      "file": "2026-06-11-00-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.907514542
+    },
+    {
+      "file": "2026-06-11-00-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.737340847
+    },
+    {
+      "file": "2026-06-11-00-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 39.107014452
+    },
+    {
+      "file": "2026-06-11-00-00-21_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.652076099
+    },
+    {
+      "file": "2026-06-11-00-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.986450973
+    },
+    {
+      "file": "2026-06-11-00-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.787385249
+    },
+    {
+      "file": "2026-06-11-01-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.15998897
+    },
+    {
+      "file": "2026-06-11-01-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.595349869
+    },
+    {
+      "file": "2026-06-11-01-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 31.807035534
+    },
+    {
+      "file": "2026-06-11-01-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.343551143
+    },
+    {
+      "file": "2026-06-11-01-00-08_real_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.150257606
+    },
+    {
+      "file": "2026-06-11-01-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.185275251
+    },
+    {
+      "file": "2026-06-11-01-00-10_tmb_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.691511286
+    },
+    {
+      "file": "2026-06-11-01-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 40.121708299
+    },
+    {
+      "file": "2026-06-11-01-00-13_media_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 33.511802937
+    },
+    {
+      "file": "2026-06-11-01-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.871478983
+    },
+    {
+      "file": "2026-06-11-01-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.281371496
+    },
+    {
+      "file": "2026-06-11-01-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.329378217
+    },
+    {
+      "file": "2026-06-11-01-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 39.776916165
+    },
+    {
+      "file": "2026-06-11-01-00-21_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.747257423
+    },
+    {
+      "file": "2026-06-11-01-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.667141075
+    },
+    {
+      "file": "2026-06-11-01-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.763652651
+    },
+    {
+      "file": "2026-06-11-02-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.243328572
+    },
+    {
+      "file": "2026-06-11-02-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.661268647
+    },
+    {
+      "file": "2026-06-11-02-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 31.79128119
+    },
+    {
+      "file": "2026-06-11-02-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.080394903
+    },
+    {
+      "file": "2026-06-11-02-00-08_real_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.78532595
+    },
+    {
+      "file": "2026-06-11-02-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.320053666
+    },
+    {
+      "file": "2026-06-11-02-00-10_tmb_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.100657237
+    },
+    {
+      "file": "2026-06-11-02-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 31.906693957
+    },
+    {
+      "file": "2026-06-11-02-00-13_media_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.317882724
+    },
+    {
+      "file": "2026-06-11-02-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.432422884
+    },
+    {
+      "file": "2026-06-11-02-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.246390677
+    },
+    {
+      "file": "2026-06-11-02-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.851286009
+    },
+    {
+      "file": "2026-06-11-02-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.343802686
+    },
+    {
+      "file": "2026-06-11-02-00-21_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.238061815
+    },
+    {
+      "file": "2026-06-11-02-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.143092761
+    },
+    {
+      "file": "2026-06-11-02-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.087605299
+    },
+    {
+      "file": "2026-06-11-03-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.803213622
+    },
+    {
+      "file": "2026-06-11-03-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.615729871
+    },
+    {
+      "file": "2026-06-11-03-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 32.448957615
+    },
+    {
+      "file": "2026-06-11-03-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.586815513
+    },
+    {
+      "file": "2026-06-11-03-00-08_real_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.507944388
+    },
+    {
+      "file": "2026-06-11-03-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.77403006
+    },
+    {
+      "file": "2026-06-11-03-00-10_tmb_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.555537446
+    },
+    {
+      "file": "2026-06-11-03-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.921966399
+    },
+    {
+      "file": "2026-06-11-03-00-13_media_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.865862989
+    },
+    {
+      "file": "2026-06-11-03-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.979255204
+    },
+    {
+      "file": "2026-06-11-03-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.736628354
+    },
+    {
+      "file": "2026-06-11-03-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.945975631
+    },
+    {
+      "file": "2026-06-11-03-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.424708535
+    },
+    {
+      "file": "2026-06-11-03-00-21_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.670584215
+    },
+    {
+      "file": "2026-06-11-03-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.81535358
+    },
+    {
+      "file": "2026-06-11-03-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.899226694
+    },
+    {
+      "file": "2026-06-11-04-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.410312467
+    },
+    {
+      "file": "2026-06-11-04-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.382031658
+    },
+    {
+      "file": "2026-06-11-04-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 31.379634768
+    },
+    {
+      "file": "2026-06-11-04-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.356627872
+    },
+    {
+      "file": "2026-06-11-04-00-08_real_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.916115506
+    },
+    {
+      "file": "2026-06-11-04-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.173185737
+    },
+    {
+      "file": "2026-06-11-04-00-10_tmb_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 33.842576245
+    },
+    {
+      "file": "2026-06-11-04-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.642312439
+    },
+    {
+      "file": "2026-06-11-04-00-13_media_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.148488068
+    },
+    {
+      "file": "2026-06-11-04-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.255365801
+    },
+    {
+      "file": "2026-06-11-04-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.172906548
+    },
+    {
+      "file": "2026-06-11-04-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.490532824
+    },
+    {
+      "file": "2026-06-11-04-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.102659855
+    },
+    {
+      "file": "2026-06-11-04-00-21_radio_kepez_srv6-43min.mp3",
+      "matches": [],
+      "latency_sec": 29.394469614
+    },
+    {
+      "file": "2026-06-11-04-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.718006008
+    },
+    {
+      "file": "2026-06-11-04-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.928585779
+    },
+    {
+      "file": "2026-06-11-04-56-10_radio_kepez_srv6-4min.mp3",
+      "matches": [],
+      "latency_sec": 13.916172626
+    },
+    {
+      "file": "2026-06-11-05-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.618276604
+    },
+    {
+      "file": "2026-06-11-05-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.217816288
+    },
+    {
+      "file": "2026-06-11-05-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 30.957171409
+    },
+    {
+      "file": "2026-06-11-05-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.869240427
+    },
+    {
+      "file": "2026-06-11-05-00-08_real_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.591551947
+    },
+    {
+      "file": "2026-06-11-05-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.502638625
+    },
+    {
+      "file": "2026-06-11-05-00-10_tmb_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.933273582
+    },
+    {
+      "file": "2026-06-11-05-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.936756239
+    },
+    {
+      "file": "2026-06-11-05-00-13_media_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.625357149
+    },
+    {
+      "file": "2026-06-11-05-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.423685031
+    },
+    {
+      "file": "2026-06-11-05-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.769776802
+    },
+    {
+      "file": "2026-06-11-05-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.908091182
+    },
+    {
+      "file": "2026-06-11-05-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.045206152
+    },
+    {
+      "file": "2026-06-11-05-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 32.513672017
+    },
+    {
+      "file": "2026-06-11-05-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.723286745
+    },
+    {
+      "file": "2026-06-11-05-01-21_radio_kepez_srv6-60min.mp3",
+      "matches": [],
+      "latency_sec": 36.295638037
+    },
+    {
+      "file": "2026-06-11-06-00-03_106.3fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.154398843
+    },
+    {
+      "file": "2026-06-11-06-00-05_araz_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.524648269
+    },
+    {
+      "file": "2026-06-11-06-00-06_asan_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 30.583715051
+    },
+    {
+      "file": "2026-06-11-06-00-08_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.933625581
+    },
+    {
+      "file": "2026-06-11-06-00-09_real_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 39.134636314
+    },
+    {
+      "file": "2026-06-11-06-00-10_radio_resp_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.56256818
+    },
+    {
+      "file": "2026-06-11-06-00-11_tmb_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.244205377
+    },
+    {
+      "file": "2026-06-11-06-00-12_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.09731095
+    },
+    {
+      "file": "2026-06-11-06-00-14_media_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.926578543
+    },
+    {
+      "file": "2026-06-11-06-00-17_enerji_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.732278089
+    },
+    {
+      "file": "2026-06-11-06-00-18_radio_space_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.400694633
+    },
+    {
+      "file": "2026-06-11-06-00-19_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.693599229
+    },
+    {
+      "file": "2026-06-11-06-00-20_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.557523199
+    },
+    {
+      "file": "2026-06-11-06-00-22_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.721355662
+    },
+    {
+      "file": "2026-06-11-06-00-23_yurd_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 33.704930725
+    },
+    {
+      "file": "2026-06-11-06-00-24_xezer_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.636100899
+    },
+    {
+      "file": "2026-06-11-07-00-03_106.3fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 3072.4,
+          "DurationSec": 28.24,
+          "Confidence": 0.9999451662314046,
+          "Score": 0.961,
+          "ScaleFactor": 0.998
+        }
+      ],
+      "latency_sec": 37.086647739
+    },
+    {
+      "file": "2026-06-11-07-00-05_araz_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.422405799
+    },
+    {
+      "file": "2026-06-11-07-00-06_asan_radio_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1032.992,
+          "DurationSec": 14.048,
+          "Confidence": 0.9987250668861809,
+          "Score": 0.947,
+          "ScaleFactor": 0.994
+        }
+      ],
+      "latency_sec": 29.889870538
+    },
+    {
+      "file": "2026-06-11-07-00-08_avto_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2336.608,
+          "DurationSec": 28.272,
+          "Confidence": 0.9999992963528401,
+          "Score": 0.991,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 34.525303415
+    },
+    {
+      "file": "2026-06-11-07-00-09_real_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.286283613
+    },
+    {
+      "file": "2026-06-11-07-00-10_radio_resp_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.806257021
+    },
+    {
+      "file": "2026-06-11-07-00-11_tmb_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3616.704,
+          "DurationSec": 14.736,
+          "Confidence": 0.999999522052264,
+          "Score": 0.995,
+          "ScaleFactor": 0.995
+        }
+      ],
+      "latency_sec": 37.232833894
+    },
+    {
+      "file": "2026-06-11-07-00-12_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.28069905
+    },
+    {
+      "file": "2026-06-11-07-00-14_media_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.239714481
+    },
+    {
+      "file": "2026-06-11-07-00-17_enerji_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 33.081538335
+    },
+    {
+      "file": "2026-06-11-07-00-18_radio_space_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.831441733
+    },
+    {
+      "file": "2026-06-11-07-00-19_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 33.574074377
+    },
+    {
+      "file": "2026-06-11-07-00-20_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.565896735
+    },
+    {
+      "file": "2026-06-11-07-00-22_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.002820768
+    },
+    {
+      "file": "2026-06-11-07-00-23_yurd_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2710.624,
+          "DurationSec": 28.272,
+          "Confidence": 0.9999991519473495,
+          "Score": 0.994,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 33.368894916
+    },
+    {
+      "file": "2026-06-11-07-00-24_xezer_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.463295625
+    },
+    {
+      "file": "2026-06-11-08-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 3451.456,
+          "DurationSec": 28.256,
+          "Confidence": 0.9999283548576102,
+          "Score": 0.962,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 36.505654703
+    },
+    {
+      "file": "2026-06-11-08-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1124.256,
+          "DurationSec": 28.256,
+          "Confidence": 0.9996562102450601,
+          "Score": 0.955,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 36.355282864
+    },
+    {
+      "file": "2026-06-11-08-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2153.312,
+          "DurationSec": 14.4,
+          "Confidence": 0.9998721397772947,
+          "Score": 0.962,
+          "ScaleFactor": 0.972
+        }
+      ],
+      "latency_sec": 29.24140885
+    },
+    {
+      "file": "2026-06-11-08-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.748015588
+    },
+    {
+      "file": "2026-06-11-08-00-08_real_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3137.984,
+          "DurationSec": 7.376,
+          "Confidence": 0.9992956736538893,
+          "Score": 0.945,
+          "ScaleFactor": 0.998
+        }
+      ],
+      "latency_sec": 36.23376151
+    },
+    {
+      "file": "2026-06-11-08-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1041.92,
+          "DurationSec": 19.424,
+          "Confidence": 0.9999975954331582,
+          "Score": 0.991,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2512.896,
+          "DurationSec": 17.04,
+          "Confidence": 0.9694636434700447,
+          "Score": 0.978,
+          "ScaleFactor": 0.877
+        }
+      ],
+      "latency_sec": 37.197838486
+    },
+    {
+      "file": "2026-06-11-08-00-10_tmb_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 16.832,
+          "DurationSec": 14.72,
+          "Confidence": 0.9999996377318459,
+          "Score": 0.995,
+          "ScaleFactor": 0.994
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1194.304,
+          "DurationSec": 19.408,
+          "Confidence": 0.9999970598440947,
+          "Score": 0.988,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2161.808,
+          "DurationSec": 14.704,
+          "Confidence": 0.9999992472556192,
+          "Score": 0.995,
+          "ScaleFactor": 0.992
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2978.912,
+          "DurationSec": 17.168,
+          "Confidence": 0.9975579723643562,
+          "Score": 0.976,
+          "ScaleFactor": 0.884
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3648.464,
+          "DurationSec": 7.344,
+          "Confidence": 0.9999995485059712,
+          "Score": 0.994,
+          "ScaleFactor": 0.994
+        }
+      ],
+      "latency_sec": 35.87568725
+    },
+    {
+      "file": "2026-06-11-08-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.243935187
+    },
+    {
+      "file": "2026-06-11-08-00-13_media_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1035.616,
+          "DurationSec": 28.272,
+          "Confidence": 0.9999977157978943,
+          "Score": 0.991,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 37.14102059
+    },
+    {
+      "file": "2026-06-11-08-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1144.176,
+          "DurationSec": 14.384,
+          "Confidence": 0.9999936595141161,
+          "Score": 0.98,
+          "ScaleFactor": 0.971
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1263.376,
+          "DurationSec": 18.288,
+          "Confidence": 0.7890887947714907,
+          "Score": 0.959,
+          "ScaleFactor": 0.942
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2771.28,
+          "DurationSec": 14.816,
+          "Confidence": 0.9999924666369355,
+          "Score": 0.98,
+          "ScaleFactor": 1
+        }
+      ],
+      "latency_sec": 36.132775825
+    },
+    {
+      "file": "2026-06-11-08-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.844169953
+    },
+    {
+      "file": "2026-06-11-08-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.427317179
+    },
+    {
+      "file": "2026-06-11-08-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.008157351
+    },
+    {
+      "file": "2026-06-11-08-00-21_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.437053864
+    },
+    {
+      "file": "2026-06-11-08-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 937.264,
+          "DurationSec": 14.816,
+          "Confidence": 0.9999994129154561,
+          "Score": 0.993,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1170.704,
+          "DurationSec": 18.832,
+          "Confidence": 0.977898330457502,
+          "Score": 0.974,
+          "ScaleFactor": 0.97
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2718.656,
+          "DurationSec": 14.8,
+          "Confidence": 0.99999909897307,
+          "Score": 0.993,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2960.608,
+          "DurationSec": 19.376,
+          "Confidence": 0.9999981932967873,
+          "Score": 0.993,
+          "ScaleFactor": 0.998
+        }
+      ],
+      "latency_sec": 35.131514929
+    },
+    {
+      "file": "2026-06-11-08-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1337.136,
+          "DurationSec": 28.256,
+          "Confidence": 0.9997969315375871,
+          "Score": 0.958,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1446.72,
+          "DurationSec": 28.256,
+          "Confidence": 0.9999700569549448,
+          "Score": 0.966,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 36.279425232
+    },
+    {
+      "file": "2026-06-11-09-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1348.288,
+          "DurationSec": 28.24,
+          "Confidence": 0.9999393464505283,
+          "Score": 0.956,
+          "ScaleFactor": 0.998
+        },
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1398.064,
+          "DurationSec": 28.256,
+          "Confidence": 0.9996167711632337,
+          "Score": 0.952,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3292.464,
+          "DurationSec": 16.976,
+          "Confidence": 0.6069164793834246,
+          "Score": 0.959,
+          "ScaleFactor": 0.874
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3544.704,
+          "DurationSec": 19.296,
+          "Confidence": 0.9999625696547544,
+          "Score": 0.97,
+          "ScaleFactor": 0.993
+        }
+      ],
+      "latency_sec": 35.629186667
+    },
+    {
+      "file": "2026-06-11-09-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1305.84,
+          "DurationSec": 28.272,
+          "Confidence": 0.9999981970050976,
+          "Score": 0.983,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 37.704917546
+    },
+    {
+      "file": "2026-06-11-09-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2105.248,
+          "DurationSec": 14.4,
+          "Confidence": 0.9998149121469425,
+          "Score": 0.962,
+          "ScaleFactor": 0.972
+        }
+      ],
+      "latency_sec": 32.490604476
+    },
+    {
+      "file": "2026-06-11-09-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.157875216
+    },
+    {
+      "file": "2026-06-11-09-00-08_real_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2913.168,
+          "DurationSec": 7.376,
+          "Confidence": 0.9992236283082014,
+          "Score": 0.944,
+          "ScaleFactor": 0.998
+        }
+      ],
+      "latency_sec": 35.088162155
+    },
+    {
+      "file": "2026-06-11-09-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.408585544
+    },
+    {
+      "file": "2026-06-11-09-00-10_tmb_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 48.608,
+          "DurationSec": 14.736,
+          "Confidence": 0.9999996370029757,
+          "Score": 0.995,
+          "ScaleFactor": 0.995
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1133.552,
+          "DurationSec": 17.824,
+          "Confidence": 0.9822127026769906,
+          "Score": 0.975,
+          "ScaleFactor": 0.918
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2011.52,
+          "DurationSec": 14.8,
+          "Confidence": 0.9999993892043848,
+          "Score": 0.995,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3621.28,
+          "DurationSec": 14.736,
+          "Confidence": 0.9999995221183996,
+          "Score": 0.995,
+          "ScaleFactor": 0.995
+        }
+      ],
+      "latency_sec": 36.304866797
+    },
+    {
+      "file": "2026-06-11-09-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.178538605
+    },
+    {
+      "file": "2026-06-11-09-00-13_media_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2928.544,
+          "DurationSec": 28.272,
+          "Confidence": 0.999996427238792,
+          "Score": 0.991,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 35.40600299
+    },
+    {
+      "file": "2026-06-11-09-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1001.408,
+          "DurationSec": 14.752,
+          "Confidence": 0.9999938028244276,
+          "Score": 0.979,
+          "ScaleFactor": 0.996
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2933.296,
+          "DurationSec": 14.736,
+          "Confidence": 0.9999912198549388,
+          "Score": 0.979,
+          "ScaleFactor": 0.995
+        }
+      ],
+      "latency_sec": 36.664049716
+    },
+    {
+      "file": "2026-06-11-09-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3055.376,
+          "DurationSec": 17.296,
+          "Confidence": 0.9950243859287975,
+          "Score": 0.985,
+          "ScaleFactor": 0.89
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3188.976,
+          "DurationSec": 17.888,
+          "Confidence": 0.9976561799373663,
+          "Score": 0.984,
+          "ScaleFactor": 0.921
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3255.2,
+          "DurationSec": 18.8,
+          "Confidence": 0.9957260849623008,
+          "Score": 0.98,
+          "ScaleFactor": 0.968
+        }
+      ],
+      "latency_sec": 36.818078513
+    },
+    {
+      "file": "2026-06-11-09-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.024941241
+    },
+    {
+      "file": "2026-06-11-09-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.385687659
+    },
+    {
+      "file": "2026-06-11-09-00-21_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.953008594
+    },
+    {
+      "file": "2026-06-11-09-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 923.504,
+          "DurationSec": 14.816,
+          "Confidence": 0.9999988821267667,
+          "Score": 0.993,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_1",
+          "TimeSec": 984.528,
+          "DurationSec": 28.288,
+          "Confidence": 0.9999992712925966,
+          "Score": 0.993,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2739.616,
+          "DurationSec": 14.8,
+          "Confidence": 0.999999360358586,
+          "Score": 0.993,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 35.840732893
+    },
+    {
+      "file": "2026-06-11-09-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1634.864,
+          "DurationSec": 28.256,
+          "Confidence": 0.9998536975661928,
+          "Score": 0.958,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 36.823720527
+    },
+    {
+      "file": "2026-06-11-10-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3593.152,
+          "DurationSec": 9.072,
+          "Confidence": 0.9912953848352537,
+          "Score": 0.959,
+          "ScaleFactor": 0.934
+        }
+      ],
+      "latency_sec": 37.43252846
+    },
+    {
+      "file": "2026-06-11-10-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.615766544
+    },
+    {
+      "file": "2026-06-11-10-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2266.512,
+          "DurationSec": 14.384,
+          "Confidence": 0.9998138740319334,
+          "Score": 0.961,
+          "ScaleFactor": 0.971
+        }
+      ],
+      "latency_sec": 32.448844374
+    },
+    {
+      "file": "2026-06-11-10-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.806887943
+    },
+    {
+      "file": "2026-06-11-10-00-08_real_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2917.088,
+          "DurationSec": 7.376,
+          "Confidence": 0.9988760130037134,
+          "Score": 0.945,
+          "ScaleFactor": 0.998
+        }
+      ],
+      "latency_sec": 36.19167677
+    },
+    {
+      "file": "2026-06-11-10-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 354.272,
+          "DurationSec": 17.76,
+          "Confidence": 0.9671698163495607,
+          "Score": 0.973,
+          "ScaleFactor": 0.914
+        },
+        {
+          "AdID": "ad_1",
+          "TimeSec": 3315.36,
+          "DurationSec": 28.256,
+          "Confidence": 0.9999964725847013,
+          "Score": 0.988,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3358.176,
+          "DurationSec": 18.384,
+          "Confidence": 0.9734271727684733,
+          "Score": 0.97,
+          "ScaleFactor": 0.946
+        }
+      ],
+      "latency_sec": 37.734577748
+    },
+    {
+      "file": "2026-06-11-10-00-10_tmb_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 21.424,
+          "DurationSec": 14.736,
+          "Confidence": 0.9999996407331099,
+          "Score": 0.995,
+          "ScaleFactor": 0.995
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2042.672,
+          "DurationSec": 14.736,
+          "Confidence": 0.9999993478798606,
+          "Score": 0.995,
+          "ScaleFactor": 0.995
+        }
+      ],
+      "latency_sec": 35.199732797
+    },
+    {
+      "file": "2026-06-11-10-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.67118684
+    },
+    {
+      "file": "2026-06-11-10-00-13_media_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.673134977
+    },
+    {
+      "file": "2026-06-11-10-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1083.52,
+          "DurationSec": 14.688,
+          "Confidence": 0.9999904119372622,
+          "Score": 0.98,
+          "ScaleFactor": 0.991
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2800.72,
+          "DurationSec": 14.816,
+          "Confidence": 0.9999937556973463,
+          "Score": 0.98,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2838.72,
+          "DurationSec": 19.2,
+          "Confidence": 0.9999639156102884,
+          "Score": 0.974,
+          "ScaleFactor": 0.988
+        }
+      ],
+      "latency_sec": 35.08364695
+    },
+    {
+      "file": "2026-06-11-10-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.688370192
+    },
+    {
+      "file": "2026-06-11-10-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.550016049999996
+    },
+    {
+      "file": "2026-06-11-10-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.150697521
+    },
+    {
+      "file": "2026-06-11-10-00-21_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.548609431
+    },
+    {
+      "file": "2026-06-11-10-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1027.376,
+          "DurationSec": 14.784,
+          "Confidence": 0.9999990399873054,
+          "Score": 0.993,
+          "ScaleFactor": 0.998
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1071.952,
+          "DurationSec": 18.208,
+          "Confidence": 0.9970753214633375,
+          "Score": 0.979,
+          "ScaleFactor": 0.937
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2842.992,
+          "DurationSec": 14.816,
+          "Confidence": 0.9999990475001215,
+          "Score": 0.993,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2857.904,
+          "DurationSec": 28.288,
+          "Confidence": 0.999999173586579,
+          "Score": 0.994,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3047.392,
+          "DurationSec": 17.952,
+          "Confidence": 0.9910796361253404,
+          "Score": 0.978,
+          "ScaleFactor": 0.924
+        }
+      ],
+      "latency_sec": 36.175432469
+    },
+    {
+      "file": "2026-06-11-10-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 32.12091387
+    },
+    {
+      "file": "2026-06-11-11-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3593.504,
+          "DurationSec": 8.848,
+          "Confidence": 0.9808069299176156,
+          "Score": 0.96,
+          "ScaleFactor": 0.911
+        }
+      ],
+      "latency_sec": 36.575623487
+    },
+    {
+      "file": "2026-06-11-11-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.717482161
+    },
+    {
+      "file": "2026-06-11-11-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 28.838097246
+    },
+    {
+      "file": "2026-06-11-11-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.667362769
+    },
+    {
+      "file": "2026-06-11-11-00-08_real_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3063.168,
+          "DurationSec": 7.376,
+          "Confidence": 0.9990876773630325,
+          "Score": 0.944,
+          "ScaleFactor": 0.998
+        }
+      ],
+      "latency_sec": 35.935161444
+    },
+    {
+      "file": "2026-06-11-11-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 3400.16,
+          "DurationSec": 28.256,
+          "Confidence": 0.9999963845336882,
+          "Score": 0.988,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 35.767944175
+    },
+    {
+      "file": "2026-06-11-11-00-10_tmb_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 244.24,
+          "DurationSec": 14.72,
+          "Confidence": 0.9999997338303239,
+          "Score": 0.995,
+          "ScaleFactor": 0.994
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1093.344,
+          "DurationSec": 18.752,
+          "Confidence": 0.962668218503646,
+          "Score": 0.97,
+          "ScaleFactor": 0.965
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1987.504,
+          "DurationSec": 14.8,
+          "Confidence": 0.9999994202183702,
+          "Score": 0.995,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2846.48,
+          "DurationSec": 19.344,
+          "Confidence": 0.9999983199152594,
+          "Score": 0.988,
+          "ScaleFactor": 0.996
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3641.2,
+          "DurationSec": 14.736,
+          "Confidence": 0.9999996460887437,
+          "Score": 0.995,
+          "ScaleFactor": 0.995
+        }
+      ],
+      "latency_sec": 35.838925106
+    },
+    {
+      "file": "2026-06-11-11-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.798335248
+    },
+    {
+      "file": "2026-06-11-11-00-13_media_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1172.432,
+          "DurationSec": 28.272,
+          "Confidence": 0.9999953338781438,
+          "Score": 0.991,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 33.870637441
+    },
+    {
+      "file": "2026-06-11-11-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1088.224,
+          "DurationSec": 14.816,
+          "Confidence": 0.9999913614404031,
+          "Score": 0.98,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2722.016,
+          "DurationSec": 14.816,
+          "Confidence": 0.9999882801675035,
+          "Score": 0.98,
+          "ScaleFactor": 1
+        }
+      ],
+      "latency_sec": 36.401910498
+    },
+    {
+      "file": "2026-06-11-11-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.975767603
+    },
+    {
+      "file": "2026-06-11-11-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.091013679
+    },
+    {
+      "file": "2026-06-11-11-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 39.095251911
+    },
+    {
+      "file": "2026-06-11-11-00-21_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.911883007
+    },
+    {
+      "file": "2026-06-11-11-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1001.232,
+          "DurationSec": 14.816,
+          "Confidence": 0.9999990465699087,
+          "Score": 0.992,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2771.952,
+          "DurationSec": 14.8,
+          "Confidence": 0.9999990956742582,
+          "Score": 0.993,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 36.397362061
+    },
+    {
+      "file": "2026-06-11-11-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 33.535833874
+    },
+    {
+      "file": "2026-06-11-12-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2964.928,
+          "DurationSec": 19.28,
+          "Confidence": 0.9999551573188156,
+          "Score": 0.968,
+          "ScaleFactor": 0.993
+        }
+      ],
+      "latency_sec": 36.023497455
+    },
+    {
+      "file": "2026-06-11-12-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2066.08,
+          "DurationSec": 28.256,
+          "Confidence": 0.999987380576382,
+          "Score": 0.971,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 37.770408905
+    },
+    {
+      "file": "2026-06-11-12-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2019.104,
+          "DurationSec": 28.272,
+          "Confidence": 0.9990036614767407,
+          "Score": 0.951,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2128.128,
+          "DurationSec": 14.384,
+          "Confidence": 0.9998703375204521,
+          "Score": 0.962,
+          "ScaleFactor": 0.971
+        }
+      ],
+      "latency_sec": 28.629042989
+    },
+    {
+      "file": "2026-06-11-12-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.929264774
+    },
+    {
+      "file": "2026-06-11-12-00-08_real_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3019.44,
+          "DurationSec": 7.392,
+          "Confidence": 0.9992800443830687,
+          "Score": 0.946,
+          "ScaleFactor": 1
+        }
+      ],
+      "latency_sec": 35.603217344
+    },
+    {
+      "file": "2026-06-11-12-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 361.84,
+          "DurationSec": 18.752,
+          "Confidence": 0.9424750825686469,
+          "Score": 0.971,
+          "ScaleFactor": 0.965
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2635.248,
+          "DurationSec": 19.408,
+          "Confidence": 0.9999968183304833,
+          "Score": 0.989,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2654.896,
+          "DurationSec": 28.256,
+          "Confidence": 0.9999959061052647,
+          "Score": 0.988,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2757.248,
+          "DurationSec": 28.256,
+          "Confidence": 0.9999943997500805,
+          "Score": 0.988,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3624.848,
+          "DurationSec": 18.016,
+          "Confidence": 0.9913562714671746,
+          "Score": 0.974,
+          "ScaleFactor": 0.928
+        }
+      ],
+      "latency_sec": 35.439724061
+    },
+    {
+      "file": "2026-06-11-12-00-10_tmb_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 41.344,
+          "DurationSec": 14.736,
+          "Confidence": 0.9999995836358665,
+          "Score": 0.995,
+          "ScaleFactor": 0.995
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1966.592,
+          "DurationSec": 14.784,
+          "Confidence": 0.9999991771494209,
+          "Score": 0.995,
+          "ScaleFactor": 0.998
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3642.048,
+          "DurationSec": 14.72,
+          "Confidence": 0.9999997440059536,
+          "Score": 0.995,
+          "ScaleFactor": 0.994
+        }
+      ],
+      "latency_sec": 36.198759047
+    },
+    {
+      "file": "2026-06-11-12-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 39.78843989
+    },
+    {
+      "file": "2026-06-11-12-00-13_media_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.29502179
+    },
+    {
+      "file": "2026-06-11-12-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 969.872,
+          "DurationSec": 14.384,
+          "Confidence": 0.9999932134707009,
+          "Score": 0.979,
+          "ScaleFactor": 0.971
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1064.736,
+          "DurationSec": 18.08,
+          "Confidence": 0.9598554336892692,
+          "Score": 0.961,
+          "ScaleFactor": 0.931
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2874.464,
+          "DurationSec": 14.736,
+          "Confidence": 0.9999918464452366,
+          "Score": 0.98,
+          "ScaleFactor": 0.995
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2915.168,
+          "DurationSec": 18.432,
+          "Confidence": 0.7015847296057315,
+          "Score": 0.959,
+          "ScaleFactor": 0.949
+        }
+      ],
+      "latency_sec": 36.324804138
+    },
+    {
+      "file": "2026-06-11-12-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 903.872,
+          "DurationSec": 19.248,
+          "Confidence": 0.9999994450580822,
+          "Score": 0.997,
+          "ScaleFactor": 0.991
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1021.888,
+          "DurationSec": 17.056,
+          "Confidence": 0.9878579689548248,
+          "Score": 0.984,
+          "ScaleFactor": 0.878
+        }
+      ],
+      "latency_sec": 38.961721043
+    },
+    {
+      "file": "2026-06-11-12-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.17419579
+    },
+    {
+      "file": "2026-06-11-12-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.203072129
+    },
+    {
+      "file": "2026-06-11-12-00-21_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.969569897
+    },
+    {
+      "file": "2026-06-11-12-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 959.824,
+          "DurationSec": 14.8,
+          "Confidence": 0.9999988685001941,
+          "Score": 0.992,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1127.36,
+          "DurationSec": 18.72,
+          "Confidence": 0.9908523615981224,
+          "Score": 0.977,
+          "ScaleFactor": 0.964
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2846.032,
+          "DurationSec": 14.704,
+          "Confidence": 0.9999988715302692,
+          "Score": 0.992,
+          "ScaleFactor": 0.992
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3110.144,
+          "DurationSec": 18.864,
+          "Confidence": 0.9865480338100495,
+          "Score": 0.974,
+          "ScaleFactor": 0.971
+        }
+      ],
+      "latency_sec": 35.236695807
+    },
+    {
+      "file": "2026-06-11-12-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1366.464,
+          "DurationSec": 28.24,
+          "Confidence": 0.9998661278068658,
+          "Score": 0.956,
+          "ScaleFactor": 0.998
+        }
+      ],
+      "latency_sec": 34.499883799
+    },
+    {
+      "file": "2026-06-11-13-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2986.96,
+          "DurationSec": 9.2,
+          "Confidence": 0.9893011429097242,
+          "Score": 0.961,
+          "ScaleFactor": 0.947
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3592.688,
+          "DurationSec": 9.12,
+          "Confidence": 0.9908267449317302,
+          "Score": 0.958,
+          "ScaleFactor": 0.939
+        }
+      ],
+      "latency_sec": 37.357120657
+    },
+    {
+      "file": "2026-06-11-13-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 3009.888,
+          "DurationSec": 28.272,
+          "Confidence": 0.9999990070700124,
+          "Score": 0.986,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 39.977435826
+    },
+    {
+      "file": "2026-06-11-13-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2179.488,
+          "DurationSec": 14.368,
+          "Confidence": 0.9998926718267652,
+          "Score": 0.963,
+          "ScaleFactor": 0.97
+        }
+      ],
+      "latency_sec": 30.421448011
+    },
+    {
+      "file": "2026-06-11-13-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2318.4,
+          "DurationSec": 28.272,
+          "Confidence": 0.9999987420712931,
+          "Score": 0.991,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 34.954006888
+    },
+    {
+      "file": "2026-06-11-13-00-08_real_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3083.44,
+          "DurationSec": 7.392,
+          "Confidence": 0.999103215413771,
+          "Score": 0.944,
+          "ScaleFactor": 1
+        }
+      ],
+      "latency_sec": 36.881563745
+    },
+    {
+      "file": "2026-06-11-13-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 24.976,
+          "DurationSec": 17.04,
+          "Confidence": 0.935077594254518,
+          "Score": 0.974,
+          "ScaleFactor": 0.877
+        },
+        {
+          "AdID": "ad_1",
+          "TimeSec": 3118.624,
+          "DurationSec": 28.272,
+          "Confidence": 0.999995547970676,
+          "Score": 0.988,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3225.36,
+          "DurationSec": 17.76,
+          "Confidence": 0.9788664368754018,
+          "Score": 0.973,
+          "ScaleFactor": 0.914
+        }
+      ],
+      "latency_sec": 33.048443717
+    },
+    {
+      "file": "2026-06-11-13-00-10_tmb_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 42.192,
+          "DurationSec": 14.72,
+          "Confidence": 0.9999995738851205,
+          "Score": 0.995,
+          "ScaleFactor": 0.994
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2043.28,
+          "DurationSec": 14.624,
+          "Confidence": 0.9999991193323046,
+          "Score": 0.995,
+          "ScaleFactor": 0.987
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3050.432,
+          "DurationSec": 17.808,
+          "Confidence": 0.9849674492341939,
+          "Score": 0.973,
+          "ScaleFactor": 0.917
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3641.04,
+          "DurationSec": 14.72,
+          "Confidence": 0.9999993800052169,
+          "Score": 0.995,
+          "ScaleFactor": 0.994
+        }
+      ],
+      "latency_sec": 36.087247864
+    },
+    {
+      "file": "2026-06-11-13-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.381973403
+    },
+    {
+      "file": "2026-06-11-13-00-13_media_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1229.344,
+          "DurationSec": 28.288,
+          "Confidence": 0.9999969645507214,
+          "Score": 0.991,
+          "ScaleFactor": 1
+        }
+      ],
+      "latency_sec": 34.293298582
+    },
+    {
+      "file": "2026-06-11-13-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1029.488,
+          "DurationSec": 14.736,
+          "Confidence": 0.9999937990504092,
+          "Score": 0.98,
+          "ScaleFactor": 0.995
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1137.856,
+          "DurationSec": 18.496,
+          "Confidence": 0.7057110398099685,
+          "Score": 0.957,
+          "ScaleFactor": 0.952
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2739.696,
+          "DurationSec": 14.816,
+          "Confidence": 0.9999901375192572,
+          "Score": 0.98,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2777.328,
+          "DurationSec": 18.768,
+          "Confidence": 0.6443271441839717,
+          "Score": 0.959,
+          "ScaleFactor": 0.966
+        }
+      ],
+      "latency_sec": 36.518953276
+    },
+    {
+      "file": "2026-06-11-13-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1224.496,
+          "DurationSec": 17.872,
+          "Confidence": 0.9968190023774913,
+          "Score": 0.984,
+          "ScaleFactor": 0.92
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1284.592,
+          "DurationSec": 17.872,
+          "Confidence": 0.997037977084906,
+          "Score": 0.984,
+          "ScaleFactor": 0.92
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1341.904,
+          "DurationSec": 18.752,
+          "Confidence": 0.9958243625480069,
+          "Score": 0.981,
+          "ScaleFactor": 0.965
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2829.632,
+          "DurationSec": 18.768,
+          "Confidence": 0.9898266730650868,
+          "Score": 0.978,
+          "ScaleFactor": 0.966
+        }
+      ],
+      "latency_sec": 37.034449424
+    },
+    {
+      "file": "2026-06-11-13-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.477586227
+    },
+    {
+      "file": "2026-06-11-13-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.547018921
+    },
+    {
+      "file": "2026-06-11-13-00-21_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.637498485
+    },
+    {
+      "file": "2026-06-11-13-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 987.68,
+          "DurationSec": 14.72,
+          "Confidence": 0.999998885960021,
+          "Score": 0.992,
+          "ScaleFactor": 0.994
+        },
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1051.312,
+          "DurationSec": 28.272,
+          "Confidence": 0.9999992031446284,
+          "Score": 0.994,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1268.832,
+          "DurationSec": 19.424,
+          "Confidence": 0.9999984744437515,
+          "Score": 0.993,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2813.6,
+          "DurationSec": 14.8,
+          "Confidence": 0.9999988549766615,
+          "Score": 0.993,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2902.992,
+          "DurationSec": 18.224,
+          "Confidence": 0.9967070853692476,
+          "Score": 0.979,
+          "ScaleFactor": 0.938
+        }
+      ],
+      "latency_sec": 35.550082834
+    },
+    {
+      "file": "2026-06-11-13-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2660.848,
+          "DurationSec": 28.256,
+          "Confidence": 0.9999391977301846,
+          "Score": 0.963,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 37.193902721
+    },
+    {
+      "file": "2026-06-11-14-00-03_106.3fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2942.384,
+          "DurationSec": 8.832,
+          "Confidence": 0.9587267869665402,
+          "Score": 0.957,
+          "ScaleFactor": 0.909
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3582.864,
+          "DurationSec": 19.312,
+          "Confidence": 0.9999665798901342,
+          "Score": 0.966,
+          "ScaleFactor": 0.994
+        }
+      ],
+      "latency_sec": 34.861616576
+    },
+    {
+      "file": "2026-06-11-14-00-05_araz_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.608003247
+    },
+    {
+      "file": "2026-06-11-14-00-06_asan_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 30.010469186
+    },
+    {
+      "file": "2026-06-11-14-00-08_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.582182382
+    },
+    {
+      "file": "2026-06-11-14-00-09_real_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3055.072,
+          "DurationSec": 7.392,
+          "Confidence": 0.9991405689905654,
+          "Score": 0.945,
+          "ScaleFactor": 1
+        }
+      ],
+      "latency_sec": 36.871503422
+    },
+    {
+      "file": "2026-06-11-14-00-10_radio_resp_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.857529983
+    },
+    {
+      "file": "2026-06-11-14-00-11_tmb_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 38.368,
+          "DurationSec": 14.736,
+          "Confidence": 0.9999994091235859,
+          "Score": 0.995,
+          "ScaleFactor": 0.995
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1081.392,
+          "DurationSec": 18.544,
+          "Confidence": 0.9757333211464579,
+          "Score": 0.972,
+          "ScaleFactor": 0.955
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1895.76,
+          "DurationSec": 14.816,
+          "Confidence": 0.9999993967844311,
+          "Score": 0.996,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3638.688,
+          "DurationSec": 14.72,
+          "Confidence": 0.9999997144624881,
+          "Score": 0.995,
+          "ScaleFactor": 0.994
+        }
+      ],
+      "latency_sec": 36.259647428
+    },
+    {
+      "file": "2026-06-11-14-00-12_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.999848153
+    },
+    {
+      "file": "2026-06-11-14-00-14_media_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.884198168
+    },
+    {
+      "file": "2026-06-11-14-00-17_enerji_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1087.696,
+          "DurationSec": 14.736,
+          "Confidence": 0.9999941096694165,
+          "Score": 0.98,
+          "ScaleFactor": 0.995
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2793.792,
+          "DurationSec": 14.816,
+          "Confidence": 0.9999930783071849,
+          "Score": 0.98,
+          "ScaleFactor": 1
+        }
+      ],
+      "latency_sec": 35.725638794
+    },
+    {
+      "file": "2026-06-11-14-00-18_radio_space_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.199036116
+    },
+    {
+      "file": "2026-06-11-14-00-19_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.076634823
+    },
+    {
+      "file": "2026-06-11-14-00-20_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.356969536
+    },
+    {
+      "file": "2026-06-11-14-00-22_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.255778434
+    },
+    {
+      "file": "2026-06-11-14-00-23_yurd_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1035.856,
+          "DurationSec": 14.8,
+          "Confidence": 0.999999213443781,
+          "Score": 0.993,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2948.56,
+          "DurationSec": 14.816,
+          "Confidence": 0.999998628729511,
+          "Score": 0.992,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2991.68,
+          "DurationSec": 28.288,
+          "Confidence": 0.9999994490144399,
+          "Score": 0.995,
+          "ScaleFactor": 1
+        }
+      ],
+      "latency_sec": 35.067944452
+    },
+    {
+      "file": "2026-06-11-14-00-24_xezer_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.02072146
+    },
+    {
+      "file": "2026-06-11-15-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2865.808,
+          "DurationSec": 17.344,
+          "Confidence": 0.5148141357243438,
+          "Score": 0.956,
+          "ScaleFactor": 0.893
+        }
+      ],
+      "latency_sec": 36.538166422
+    },
+    {
+      "file": "2026-06-11-15-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.019760563
+    },
+    {
+      "file": "2026-06-11-15-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 30.033734455
+    },
+    {
+      "file": "2026-06-11-15-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.351318009
+    },
+    {
+      "file": "2026-06-11-15-00-08_real_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2938.8,
+          "DurationSec": 7.392,
+          "Confidence": 0.9991961106219157,
+          "Score": 0.946,
+          "ScaleFactor": 1
+        }
+      ],
+      "latency_sec": 36.006300592
+    },
+    {
+      "file": "2026-06-11-15-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.27419935
+    },
+    {
+      "file": "2026-06-11-15-00-10_tmb_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 38.832,
+          "DurationSec": 14.72,
+          "Confidence": 0.9999997725248839,
+          "Score": 0.995,
+          "ScaleFactor": 0.994
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1960.56,
+          "DurationSec": 14.816,
+          "Confidence": 0.9999991209150819,
+          "Score": 0.995,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3020.112,
+          "DurationSec": 19.344,
+          "Confidence": 0.999997048101811,
+          "Score": 0.987,
+          "ScaleFactor": 0.996
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3609.472,
+          "DurationSec": 14.72,
+          "Confidence": 0.9999995817889812,
+          "Score": 0.995,
+          "ScaleFactor": 0.994
+        }
+      ],
+      "latency_sec": 36.835865102
+    },
+    {
+      "file": "2026-06-11-15-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.284075331
+    },
+    {
+      "file": "2026-06-11-15-00-13_media_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 33.358085913
+    },
+    {
+      "file": "2026-06-11-15-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 925.552,
+          "DurationSec": 14.736,
+          "Confidence": 0.9999942420954802,
+          "Score": 0.979,
+          "ScaleFactor": 0.995
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2903.92,
+          "DurationSec": 14.752,
+          "Confidence": 0.999992590641154,
+          "Score": 0.98,
+          "ScaleFactor": 0.996
+        }
+      ],
+      "latency_sec": 35.368972384
+    },
+    {
+      "file": "2026-06-11-15-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.564228896
+    },
+    {
+      "file": "2026-06-11-15-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.450207611
+    },
+    {
+      "file": "2026-06-11-15-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.428485022
+    },
+    {
+      "file": "2026-06-11-15-00-21_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.522272678
+    },
+    {
+      "file": "2026-06-11-15-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1104.72,
+          "DurationSec": 14.704,
+          "Confidence": 0.9999991275296827,
+          "Score": 0.993,
+          "ScaleFactor": 0.992
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2717.744,
+          "DurationSec": 14.8,
+          "Confidence": 0.9999989502531437,
+          "Score": 0.992,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 35.40523267
+    },
+    {
+      "file": "2026-06-11-15-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.319122848
+    },
+    {
+      "file": "2026-06-11-16-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2813.376,
+          "DurationSec": 17.936,
+          "Confidence": 0.8556330375398862,
+          "Score": 0.952,
+          "ScaleFactor": 0.923
+        }
+      ],
+      "latency_sec": 35.362306072
+    },
+    {
+      "file": "2026-06-11-16-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 40.836982439
+    },
+    {
+      "file": "2026-06-11-16-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2255.616,
+          "DurationSec": 14.384,
+          "Confidence": 0.9998322756700581,
+          "Score": 0.962,
+          "ScaleFactor": 0.971
+        }
+      ],
+      "latency_sec": 30.341849197
+    },
+    {
+      "file": "2026-06-11-16-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.180243687
+    },
+    {
+      "file": "2026-06-11-16-00-08_real_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2999.904,
+          "DurationSec": 7.376,
+          "Confidence": 0.9992196312241903,
+          "Score": 0.944,
+          "ScaleFactor": 0.998
+        }
+      ],
+      "latency_sec": 35.693579052
+    },
+    {
+      "file": "2026-06-11-16-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 435.168,
+          "DurationSec": 28.256,
+          "Confidence": 0.9999953009540453,
+          "Score": 0.988,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 463.696,
+          "DurationSec": 18.384,
+          "Confidence": 0.9673957725000666,
+          "Score": 0.97,
+          "ScaleFactor": 0.946
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3345.232,
+          "DurationSec": 18.768,
+          "Confidence": 0.9579198867970249,
+          "Score": 0.971,
+          "ScaleFactor": 0.966
+        }
+      ],
+      "latency_sec": 36.522775605
+    },
+    {
+      "file": "2026-06-11-16-00-10_tmb_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 9.616,
+          "DurationSec": 14.72,
+          "Confidence": 0.999999701881627,
+          "Score": 0.995,
+          "ScaleFactor": 0.994
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1859.088,
+          "DurationSec": 14.416,
+          "Confidence": 0.9999992070213557,
+          "Score": 0.995,
+          "ScaleFactor": 0.973
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2938.464,
+          "DurationSec": 19.376,
+          "Confidence": 0.9999987051172486,
+          "Score": 0.99,
+          "ScaleFactor": 0.998
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3638.576,
+          "DurationSec": 14.72,
+          "Confidence": 0.9999994737945472,
+          "Score": 0.995,
+          "ScaleFactor": 0.994
+        }
+      ],
+      "latency_sec": 37.154200362
+    },
+    {
+      "file": "2026-06-11-16-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.458940778
+    },
+    {
+      "file": "2026-06-11-16-00-13_media_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1115.312,
+          "DurationSec": 28.288,
+          "Confidence": 0.9999979702687458,
+          "Score": 0.991,
+          "ScaleFactor": 1
+        }
+      ],
+      "latency_sec": 35.287674637
+    },
+    {
+      "file": "2026-06-11-16-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 950.512,
+          "DurationSec": 14.464,
+          "Confidence": 0.999990427449574,
+          "Score": 0.98,
+          "ScaleFactor": 0.976
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1042.496,
+          "DurationSec": 19.2,
+          "Confidence": 0.9999382812196798,
+          "Score": 0.975,
+          "ScaleFactor": 0.988
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2743.104,
+          "DurationSec": 14.816,
+          "Confidence": 0.9999902855956627,
+          "Score": 0.98,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2780.992,
+          "DurationSec": 16.992,
+          "Confidence": 0.5835883880393715,
+          "Score": 0.961,
+          "ScaleFactor": 0.875
+        }
+      ],
+      "latency_sec": 36.611899759
+    },
+    {
+      "file": "2026-06-11-16-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.483602767
+    },
+    {
+      "file": "2026-06-11-16-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.245841677
+    },
+    {
+      "file": "2026-06-11-16-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.884076704
+    },
+    {
+      "file": "2026-06-11-16-00-21_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.745863815999996
+    },
+    {
+      "file": "2026-06-11-16-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1086.496,
+          "DurationSec": 14.8,
+          "Confidence": 0.9999990019862518,
+          "Score": 0.993,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1162.592,
+          "DurationSec": 17.952,
+          "Confidence": 0.9924954053301679,
+          "Score": 0.978,
+          "ScaleFactor": 0.924
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2808.704,
+          "DurationSec": 14.8,
+          "Confidence": 0.9999991729638141,
+          "Score": 0.993,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2823.616,
+          "DurationSec": 28.288,
+          "Confidence": 0.9999994694919093,
+          "Score": 0.995,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2851.776,
+          "DurationSec": 18.544,
+          "Confidence": 0.9902094771465999,
+          "Score": 0.976,
+          "ScaleFactor": 0.955
+        }
+      ],
+      "latency_sec": 36.936443251
+    },
+    {
+      "file": "2026-06-11-16-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.020150999
+    },
+    {
+      "file": "2026-06-11-17-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1458.784,
+          "DurationSec": 28.24,
+          "Confidence": 0.999901535896722,
+          "Score": 0.957,
+          "ScaleFactor": 0.998
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1551.504,
+          "DurationSec": 8.944,
+          "Confidence": 0.990137098228294,
+          "Score": 0.96,
+          "ScaleFactor": 0.921
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3376.816,
+          "DurationSec": 9.12,
+          "Confidence": 0.9913400280050975,
+          "Score": 0.959,
+          "ScaleFactor": 0.939
+        }
+      ],
+      "latency_sec": 36.310698356
+    },
+    {
+      "file": "2026-06-11-17-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1608.144,
+          "DurationSec": 28.272,
+          "Confidence": 0.9999988579480203,
+          "Score": 0.985,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 38.403545928
+    },
+    {
+      "file": "2026-06-11-17-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2290.784,
+          "DurationSec": 14.384,
+          "Confidence": 0.9998340148886361,
+          "Score": 0.961,
+          "ScaleFactor": 0.971
+        }
+      ],
+      "latency_sec": 28.296479633
+    },
+    {
+      "file": "2026-06-11-17-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2208.16,
+          "DurationSec": 28.256,
+          "Confidence": 0.999998923889037,
+          "Score": 0.991,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 35.826981727
+    },
+    {
+      "file": "2026-06-11-17-00-08_real_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3027.264,
+          "DurationSec": 7.392,
+          "Confidence": 0.9996401626328142,
+          "Score": 0.944,
+          "ScaleFactor": 1
+        }
+      ],
+      "latency_sec": 35.940728504
+    },
+    {
+      "file": "2026-06-11-17-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 512.24,
+          "DurationSec": 28.272,
+          "Confidence": 0.9999950519223485,
+          "Score": 0.988,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 554.576,
+          "DurationSec": 19.28,
+          "Confidence": 0.9999977604599848,
+          "Score": 0.99,
+          "ScaleFactor": 0.993
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3441.232,
+          "DurationSec": 17.04,
+          "Confidence": 0.8970565798690974,
+          "Score": 0.974,
+          "ScaleFactor": 0.877
+        }
+      ],
+      "latency_sec": 35.072264396
+    },
+    {
+      "file": "2026-06-11-17-00-10_tmb_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 41.52,
+          "DurationSec": 14.736,
+          "Confidence": 0.9999997209085949,
+          "Score": 0.996,
+          "ScaleFactor": 0.995
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2115.536,
+          "DurationSec": 14.8,
+          "Confidence": 0.999999485701603,
+          "Score": 0.996,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3012.768,
+          "DurationSec": 17.808,
+          "Confidence": 0.9751719185717799,
+          "Score": 0.973,
+          "ScaleFactor": 0.917
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3641.776,
+          "DurationSec": 14.736,
+          "Confidence": 0.9999995280425025,
+          "Score": 0.995,
+          "ScaleFactor": 0.995
+        }
+      ],
+      "latency_sec": 36.172901707
+    },
+    {
+      "file": "2026-06-11-17-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 33.805945625
+    },
+    {
+      "file": "2026-06-11-17-00-13_media_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2790.016,
+          "DurationSec": 28.272,
+          "Confidence": 0.9999971768645857,
+          "Score": 0.991,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 34.472313139
+    },
+    {
+      "file": "2026-06-11-17-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 982.032,
+          "DurationSec": 14.8,
+          "Confidence": 0.9999935618327714,
+          "Score": 0.979,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1071.552,
+          "DurationSec": 17.728,
+          "Confidence": 0.5275458020398323,
+          "Score": 0.959,
+          "ScaleFactor": 0.913
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2869.712,
+          "DurationSec": 14.816,
+          "Confidence": 0.9999923116581663,
+          "Score": 0.98,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2960.816,
+          "DurationSec": 18.512,
+          "Confidence": 0.7425059567767477,
+          "Score": 0.957,
+          "ScaleFactor": 0.953
+        }
+      ],
+      "latency_sec": 35.482595891
+    },
+    {
+      "file": "2026-06-11-17-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1138.304,
+          "DurationSec": 17.024,
+          "Confidence": 0.9917043801231733,
+          "Score": 0.984,
+          "ScaleFactor": 0.876
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3187.376,
+          "DurationSec": 17.872,
+          "Confidence": 0.9966186339039016,
+          "Score": 0.983,
+          "ScaleFactor": 0.92
+        }
+      ],
+      "latency_sec": 34.53159019
+    },
+    {
+      "file": "2026-06-11-17-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.433840848
+    },
+    {
+      "file": "2026-06-11-17-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.922520607
+    },
+    {
+      "file": "2026-06-11-17-00-21_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.374299914
+    },
+    {
+      "file": "2026-06-11-17-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1174.464,
+          "DurationSec": 14.704,
+          "Confidence": 0.9999989643261554,
+          "Score": 0.993,
+          "ScaleFactor": 0.992
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1220.96,
+          "DurationSec": 18.864,
+          "Confidence": 0.980169688433866,
+          "Score": 0.973,
+          "ScaleFactor": 0.971
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2725.584,
+          "DurationSec": 14.8,
+          "Confidence": 0.9999991461870332,
+          "Score": 0.992,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2767.728,
+          "DurationSec": 19.28,
+          "Confidence": 0.9999982105563052,
+          "Score": 0.993,
+          "ScaleFactor": 0.993
+        }
+      ],
+      "latency_sec": 36.8569744
+    },
+    {
+      "file": "2026-06-11-17-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2017.008,
+          "DurationSec": 28.256,
+          "Confidence": 0.9999780644050975,
+          "Score": 0.966,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 35.606899714
+    },
+    {
+      "file": "2026-06-11-18-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3289.088,
+          "DurationSec": 19.296,
+          "Confidence": 0.9999903956683661,
+          "Score": 0.972,
+          "ScaleFactor": 0.993
+        }
+      ],
+      "latency_sec": 35.911404915
+    },
+    {
+      "file": "2026-06-11-18-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1419.504,
+          "DurationSec": 28.256,
+          "Confidence": 0.9999976914620358,
+          "Score": 0.982,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_1",
+          "TimeSec": 3074.128,
+          "DurationSec": 28.272,
+          "Confidence": 0.999997649576132,
+          "Score": 0.985,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 37.697761379
+    },
+    {
+      "file": "2026-06-11-18-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 29.574535715
+    },
+    {
+      "file": "2026-06-11-18-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.891174811
+    },
+    {
+      "file": "2026-06-11-18-00-08_real_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3088.32,
+          "DurationSec": 7.392,
+          "Confidence": 0.9997353448729798,
+          "Score": 0.949,
+          "ScaleFactor": 1
+        }
+      ],
+      "latency_sec": 35.136023735
+    },
+    {
+      "file": "2026-06-11-18-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3330.112,
+          "DurationSec": 18.384,
+          "Confidence": 0.9625663064615589,
+          "Score": 0.97,
+          "ScaleFactor": 0.946
+        }
+      ],
+      "latency_sec": 36.268502732
+    },
+    {
+      "file": "2026-06-11-18-00-10_tmb_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 39.12,
+          "DurationSec": 14.72,
+          "Confidence": 0.9999997294655932,
+          "Score": 0.995,
+          "ScaleFactor": 0.994
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2528.608,
+          "DurationSec": 18.544,
+          "Confidence": 0.9793305813175925,
+          "Score": 0.972,
+          "ScaleFactor": 0.955
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3208.944,
+          "DurationSec": 14.816,
+          "Confidence": 0.9999995044857766,
+          "Score": 0.995,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3444.24,
+          "DurationSec": 19.36,
+          "Confidence": 0.9999982299357494,
+          "Score": 0.988,
+          "ScaleFactor": 0.997
+        }
+      ],
+      "latency_sec": 36.108200267
+    },
+    {
+      "file": "2026-06-11-18-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.493416515
+    },
+    {
+      "file": "2026-06-11-18-00-13_media_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.076955183
+    },
+    {
+      "file": "2026-06-11-18-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 918.16,
+          "DurationSec": 14.528,
+          "Confidence": 0.9999894540958782,
+          "Score": 0.98,
+          "ScaleFactor": 0.981
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1033.696,
+          "DurationSec": 18.8,
+          "Confidence": 0.6027535117220392,
+          "Score": 0.959,
+          "ScaleFactor": 0.968
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3059.056,
+          "DurationSec": 14.528,
+          "Confidence": 0.9999883684132023,
+          "Score": 0.98,
+          "ScaleFactor": 0.981
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3132.944,
+          "DurationSec": 19.184,
+          "Confidence": 0.9999212576318347,
+          "Score": 0.974,
+          "ScaleFactor": 0.988
+        }
+      ],
+      "latency_sec": 36.797732296
+    },
+    {
+      "file": "2026-06-11-18-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1208.72,
+          "DurationSec": 18.8,
+          "Confidence": 0.9950246526193653,
+          "Score": 0.98,
+          "ScaleFactor": 0.968
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3195.008,
+          "DurationSec": 18.768,
+          "Confidence": 0.9891373327987785,
+          "Score": 0.978,
+          "ScaleFactor": 0.966
+        }
+      ],
+      "latency_sec": 37.788781449
+    },
+    {
+      "file": "2026-06-11-18-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.740289226
+    },
+    {
+      "file": "2026-06-11-18-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.232974362
+    },
+    {
+      "file": "2026-06-11-18-00-21_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.259556825
+    },
+    {
+      "file": "2026-06-11-18-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1297.632,
+          "DurationSec": 14.816,
+          "Confidence": 0.9999991564245052,
+          "Score": 0.992,
+          "ScaleFactor": 1
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1496.928,
+          "DurationSec": 18.224,
+          "Confidence": 0.9926882492357014,
+          "Score": 0.979,
+          "ScaleFactor": 0.938
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3016.352,
+          "DurationSec": 14.8,
+          "Confidence": 0.9999988460190604,
+          "Score": 0.992,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3188.544,
+          "DurationSec": 18.016,
+          "Confidence": 0.9920272549546301,
+          "Score": 0.977,
+          "ScaleFactor": 0.928
+        }
+      ],
+      "latency_sec": 35.066000406
+    },
+    {
+      "file": "2026-06-11-18-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1785.072,
+          "DurationSec": 28.256,
+          "Confidence": 0.9998404048302235,
+          "Score": 0.96,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2751.744,
+          "DurationSec": 28.272,
+          "Confidence": 0.9999425140333954,
+          "Score": 0.964,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 36.115444982
+    },
+    {
+      "file": "2026-06-11-19-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1426.288,
+          "DurationSec": 28.24,
+          "Confidence": 0.9998950532761449,
+          "Score": 0.956,
+          "ScaleFactor": 0.998
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3059.824,
+          "DurationSec": 17.232,
+          "Confidence": 0.7620106266983572,
+          "Score": 0.96,
+          "ScaleFactor": 0.887
+        }
+      ],
+      "latency_sec": 34.754445544
+    },
+    {
+      "file": "2026-06-11-19-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1471.712,
+          "DurationSec": 28.272,
+          "Confidence": 0.9999978743168497,
+          "Score": 0.983,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 39.34896767
+    },
+    {
+      "file": "2026-06-11-19-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1012.592,
+          "DurationSec": 25.008,
+          "Confidence": 0.9991704391788728,
+          "Score": 0.947,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2650.384,
+          "DurationSec": 14.368,
+          "Confidence": 0.9998777904908404,
+          "Score": 0.962,
+          "ScaleFactor": 0.97
+        }
+      ],
+      "latency_sec": 29.855269305
+    },
+    {
+      "file": "2026-06-11-19-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.613191455
+    },
+    {
+      "file": "2026-06-11-19-00-08_real_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3138.24,
+          "DurationSec": 7.392,
+          "Confidence": 0.9996222334954803,
+          "Score": 0.949,
+          "ScaleFactor": 1
+        }
+      ],
+      "latency_sec": 35.196153492
+    },
+    {
+      "file": "2026-06-11-19-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 3462.272,
+          "DurationSec": 28.256,
+          "Confidence": 0.9999956577404944,
+          "Score": 0.988,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 38.362814421
+    },
+    {
+      "file": "2026-06-11-19-00-10_tmb_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 163.76,
+          "DurationSec": 14.736,
+          "Confidence": 0.999999547051363,
+          "Score": 0.995,
+          "ScaleFactor": 0.995
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1270.48,
+          "DurationSec": 17.472,
+          "Confidence": 0.9919837767085912,
+          "Score": 0.975,
+          "ScaleFactor": 0.9
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1741.792,
+          "DurationSec": 14.656,
+          "Confidence": 0.9999992584368388,
+          "Score": 0.995,
+          "ScaleFactor": 0.989
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2804.304,
+          "DurationSec": 17.792,
+          "Confidence": 0.9706272123907705,
+          "Score": 0.972,
+          "ScaleFactor": 0.916
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3649.2,
+          "DurationSec": 7.328,
+          "Confidence": 0.999999326757608,
+          "Score": 0.994,
+          "ScaleFactor": 0.991
+        }
+      ],
+      "latency_sec": 36.022422882
+    },
+    {
+      "file": "2026-06-11-19-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.612233333
+    },
+    {
+      "file": "2026-06-11-19-00-13_media_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1076.88,
+          "DurationSec": 28.272,
+          "Confidence": 0.9999969037343052,
+          "Score": 0.991,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 35.57931058
+    },
+    {
+      "file": "2026-06-11-19-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1012.496,
+          "DurationSec": 14.72,
+          "Confidence": 0.9999933170867983,
+          "Score": 0.98,
+          "ScaleFactor": 0.994
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2777.28,
+          "DurationSec": 14.752,
+          "Confidence": 0.9999949126127098,
+          "Score": 0.979,
+          "ScaleFactor": 0.996
+        }
+      ],
+      "latency_sec": 35.770796321
+    },
+    {
+      "file": "2026-06-11-19-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3136.24,
+          "DurationSec": 19.264,
+          "Confidence": 0.9999996670891103,
+          "Score": 0.998,
+          "ScaleFactor": 0.992
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3263.232,
+          "DurationSec": 17.952,
+          "Confidence": 0.9965884532599871,
+          "Score": 0.984,
+          "ScaleFactor": 0.924
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3296.416,
+          "DurationSec": 17.952,
+          "Confidence": 0.9982845773173935,
+          "Score": 0.984,
+          "ScaleFactor": 0.924
+        }
+      ],
+      "latency_sec": 36.689733009
+    },
+    {
+      "file": "2026-06-11-19-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.785253062
+    },
+    {
+      "file": "2026-06-11-19-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.566432761
+    },
+    {
+      "file": "2026-06-11-19-00-21_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.878779423
+    },
+    {
+      "file": "2026-06-11-19-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 972.4,
+          "DurationSec": 14.704,
+          "Confidence": 0.9999989868788358,
+          "Score": 0.992,
+          "ScaleFactor": 0.992
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2750.416,
+          "DurationSec": 14.8,
+          "Confidence": 0.9999990661821991,
+          "Score": 0.993,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 36.020774697
+    },
+    {
+      "file": "2026-06-11-19-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1382.24,
+          "DurationSec": 28.256,
+          "Confidence": 0.9998046826394507,
+          "Score": 0.958,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 36.045164735
+    },
+    {
+      "file": "2026-06-11-20-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 3.664,
+          "DurationSec": 17.936,
+          "Confidence": 0.9041062974033331,
+          "Score": 0.953,
+          "ScaleFactor": 0.923
+        },
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1255.152,
+          "DurationSec": 28.256,
+          "Confidence": 0.9999362486144598,
+          "Score": 0.965,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 35.346613228
+    },
+    {
+      "file": "2026-06-11-20-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 967.04,
+          "DurationSec": 28.272,
+          "Confidence": 0.9999981593960864,
+          "Score": 0.985,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 37.634010411
+    },
+    {
+      "file": "2026-06-11-20-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 28.016871032
+    },
+    {
+      "file": "2026-06-11-20-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2329.584,
+          "DurationSec": 28.272,
+          "Confidence": 0.9999992376685648,
+          "Score": 0.991,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 34.896362653
+    },
+    {
+      "file": "2026-06-11-20-00-08_real_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3014.8,
+          "DurationSec": 7.376,
+          "Confidence": 0.9991622855148004,
+          "Score": 0.946,
+          "ScaleFactor": 0.998
+        }
+      ],
+      "latency_sec": 35.184593601
+    },
+    {
+      "file": "2026-06-11-20-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 798.88,
+          "DurationSec": 18.752,
+          "Confidence": 0.9602695010120393,
+          "Score": 0.971,
+          "ScaleFactor": 0.965
+        },
+        {
+          "AdID": "ad_1",
+          "TimeSec": 833.52,
+          "DurationSec": 28.256,
+          "Confidence": 0.9999952820011914,
+          "Score": 0.988,
+          "ScaleFactor": 0.999
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2969.408,
+          "DurationSec": 19.28,
+          "Confidence": 0.9999960870925673,
+          "Score": 0.989,
+          "ScaleFactor": 0.993
+        },
+        {
+          "AdID": "ad_1",
+          "TimeSec": 3013.6,
+          "DurationSec": 28.256,
+          "Confidence": 0.9999963394827588,
+          "Score": 0.988,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 35.003791158
+    },
+    {
+      "file": "2026-06-11-20-00-10_tmb_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 49.344,
+          "DurationSec": 14.72,
+          "Confidence": 0.9999995761836791,
+          "Score": 0.995,
+          "ScaleFactor": 0.994
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1232.112,
+          "DurationSec": 18.768,
+          "Confidence": 0.9612553553563686,
+          "Score": 0.971,
+          "ScaleFactor": 0.966
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1967.232,
+          "DurationSec": 14.72,
+          "Confidence": 0.9999994825464342,
+          "Score": 0.995,
+          "ScaleFactor": 0.994
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3639.264,
+          "DurationSec": 14.72,
+          "Confidence": 0.9999995923778954,
+          "Score": 0.995,
+          "ScaleFactor": 0.994
+        }
+      ],
+      "latency_sec": 37.786773496
+    },
+    {
+      "file": "2026-06-11-20-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 39.250214133
+    },
+    {
+      "file": "2026-06-11-20-00-13_media_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2928.672,
+          "DurationSec": 28.288,
+          "Confidence": 0.9999981923153621,
+          "Score": 0.991,
+          "ScaleFactor": 1
+        }
+      ],
+      "latency_sec": 35.935608876
+    },
+    {
+      "file": "2026-06-11-20-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 1186.192,
+          "DurationSec": 16.96,
+          "Confidence": 0.641268304859456,
+          "Score": 0.961,
+          "ScaleFactor": 0.873
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2741.888,
+          "DurationSec": 17.808,
+          "Confidence": 0.7179325088942364,
+          "Score": 0.96,
+          "ScaleFactor": 0.917
+        }
+      ],
+      "latency_sec": 32.970015021
+    },
+    {
+      "file": "2026-06-11-20-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 33.351694887
+    },
+    {
+      "file": "2026-06-11-20-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.032627873
+    },
+    {
+      "file": "2026-06-11-20-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.312442071
+    },
+    {
+      "file": "2026-06-11-20-00-21_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.07820783
+    },
+    {
+      "file": "2026-06-11-20-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_3",
+          "TimeSec": 981.216,
+          "DurationSec": 18.832,
+          "Confidence": 0.990968899103191,
+          "Score": 0.976,
+          "ScaleFactor": 0.97
+        },
+        {
+          "AdID": "ad_3",
+          "TimeSec": 2923.504,
+          "DurationSec": 18.8,
+          "Confidence": 0.9839522979472866,
+          "Score": 0.974,
+          "ScaleFactor": 0.968
+        }
+      ],
+      "latency_sec": 36.916212824
+    },
+    {
+      "file": "2026-06-11-20-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 1067.696,
+          "DurationSec": 28.256,
+          "Confidence": 0.9999519561320576,
+          "Score": 0.965,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 36.056094264
+    },
+    {
+      "file": "2026-06-11-21-00-02_106.3fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.846789215
+    },
+    {
+      "file": "2026-06-11-21-00-04_araz_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.680050283
+    },
+    {
+      "file": "2026-06-11-21-00-05_asan_radio_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2379.552,
+          "DurationSec": 14.384,
+          "Confidence": 0.9998120557292509,
+          "Score": 0.962,
+          "ScaleFactor": 0.971
+        }
+      ],
+      "latency_sec": 27.710806026
+    },
+    {
+      "file": "2026-06-11-21-00-07_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 33.080807885
+    },
+    {
+      "file": "2026-06-11-21-00-08_real_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3069.232,
+          "DurationSec": 7.392,
+          "Confidence": 0.9994660346784788,
+          "Score": 0.946,
+          "ScaleFactor": 1
+        }
+      ],
+      "latency_sec": 34.849822298
+    },
+    {
+      "file": "2026-06-11-21-00-09_radio_resp_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.780932966
+    },
+    {
+      "file": "2026-06-11-21-00-10_tmb_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 39.408,
+          "DurationSec": 14.72,
+          "Confidence": 0.9999995942967902,
+          "Score": 0.995,
+          "ScaleFactor": 0.994
+        },
+        {
+          "AdID": "ad_2",
+          "TimeSec": 1936.384,
+          "DurationSec": 14.8,
+          "Confidence": 0.9999992881778936,
+          "Score": 0.995,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 36.414381827
+    },
+    {
+      "file": "2026-06-11-21-00-11_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.514621615
+    },
+    {
+      "file": "2026-06-11-21-00-13_media_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 32.793573573
+    },
+    {
+      "file": "2026-06-11-21-00-16_enerji_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.238338273
+    },
+    {
+      "file": "2026-06-11-21-00-17_radio_space_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.918857008
+    },
+    {
+      "file": "2026-06-11-21-00-18_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.32675946
+    },
+    {
+      "file": "2026-06-11-21-00-19_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 37.224014041
+    },
+    {
+      "file": "2026-06-11-21-00-21_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.117836887
+    },
+    {
+      "file": "2026-06-11-21-00-22_yurd_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.418237264
+    },
+    {
+      "file": "2026-06-11-21-00-23_xezer_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 33.777102325
+    },
+    {
+      "file": "2026-06-11-22-00-03_106.3fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.449425094
+    },
+    {
+      "file": "2026-06-11-22-00-05_araz_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 38.191575854
+    },
+    {
+      "file": "2026-06-11-22-00-06_asan_radio_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 2239.088,
+          "DurationSec": 13.808,
+          "Confidence": 0.9998413817096179,
+          "Score": 0.963,
+          "ScaleFactor": 0.932
+        }
+      ],
+      "latency_sec": 29.258962091
+    },
+    {
+      "file": "2026-06-11-22-00-08_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.876256404
+    },
+    {
+      "file": "2026-06-11-22-00-09_real_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3055.392,
+          "DurationSec": 7.392,
+          "Confidence": 0.9993928667585369,
+          "Score": 0.944,
+          "ScaleFactor": 1
+        }
+      ],
+      "latency_sec": 35.638111465
+    },
+    {
+      "file": "2026-06-11-22-00-10_radio_resp_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_1",
+          "TimeSec": 2760.672,
+          "DurationSec": 28.256,
+          "Confidence": 0.9999955779262528,
+          "Score": 0.988,
+          "ScaleFactor": 0.999
+        }
+      ],
+      "latency_sec": 37.177865263
+    },
+    {
+      "file": "2026-06-11-22-00-11_tmb_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.725216372
+    },
+    {
+      "file": "2026-06-11-22-00-12_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.79278807
+    },
+    {
+      "file": "2026-06-11-22-00-14_media_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.408679718
+    },
+    {
+      "file": "2026-06-11-22-00-17_enerji_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.056153341
+    },
+    {
+      "file": "2026-06-11-22-00-18_radio_space_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.003419728
+    },
+    {
+      "file": "2026-06-11-22-00-19_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.456412706
+    },
+    {
+      "file": "2026-06-11-22-00-20_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.140981411
+    },
+    {
+      "file": "2026-06-11-22-00-22_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.578068966000004
+    },
+    {
+      "file": "2026-06-11-22-00-23_yurd_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.659212592
+    },
+    {
+      "file": "2026-06-11-22-00-24_xezer_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.112462651
+    },
+    {
+      "file": "2026-06-11-23-00-03_106.3fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.459805763
+    },
+    {
+      "file": "2026-06-11-23-00-05_araz_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 36.932959536
+    },
+    {
+      "file": "2026-06-11-23-00-06_asan_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 28.718721886
+    },
+    {
+      "file": "2026-06-11-23-00-08_avto_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.114438025
+    },
+    {
+      "file": "2026-06-11-23-00-09_real_fm_srv6-61min.mp3",
+      "matches": [
+        {
+          "AdID": "ad_2",
+          "TimeSec": 3025.808,
+          "DurationSec": 7.376,
+          "Confidence": 0.9975225881273027,
+          "Score": 0.942,
+          "ScaleFactor": 0.998
+        }
+      ],
+      "latency_sec": 34.851795487
+    },
+    {
+      "file": "2026-06-11-23-00-10_radio_resp_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.851073799
+    },
+    {
+      "file": "2026-06-11-23-00-11_tmb_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.457258563
+    },
+    {
+      "file": "2026-06-11-23-00-12_ictimai_radio_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 33.595040663
+    },
+    {
+      "file": "2026-06-11-23-00-14_media_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 35.12799299
+    },
+    {
+      "file": "2026-06-11-23-00-17_enerji_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.411088568
+    },
+    {
+      "file": "2026-06-11-23-00-18_radio_space_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 34.747771161
+    },
+    {
+      "file": "2026-06-11-23-00-19_baku_retro_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 33.904810729
+    },
+    {
+      "file": "2026-06-11-23-00-20_baku_hit_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 29.560440625
+    },
+    {
+      "file": "2026-06-11-23-00-22_radio_kepez_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 29.778124891
+    },
+    {
+      "file": "2026-06-11-23-00-23_yurd_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 27.194779675
+    },
+    {
+      "file": "2026-06-11-23-00-24_xezer_fm_srv6-61min.mp3",
+      "matches": [],
+      "latency_sec": 27.253466673
+    }
+  ],
+  "stats": {
+    "records": 385,
+    "decode_failures": 0,
+    "total_matches": 265,
+    "elapsed_sec": 2277.867639149,
+    "audio_hours": 390.1317296722201,
+    "throughput_records_per_min": 10.141063336160325,
+    "latency_p50_sec": 36.056151319,
+    "latency_p95_sec": 38.661266771,
+    "latency_p99_sec": 40.547767342,
+    "peak_rss_mb": 12602.890625,
+    "index_postings": 109094,
+    "index_bytes_per_1000_clips": 436376000
+  }
+}

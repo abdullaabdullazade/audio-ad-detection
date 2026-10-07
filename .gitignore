@@ -1,0 +1,38 @@
+# Build artifacts
+/finder
+/gencorpus
+/cutmatches
+/evidence
+/dist/
+*.test
+*.out
+*.prof
+
+# Recordings and generated data. The radio archive (~32 GB) is private; the synthetic
+# corpus is reproducible with `gencorpus`.
+*.crdownload
+/archive/
+/data/
+/corpus/
+/testdata/generated/
+/index.bin
+/report*.json
+
+# Scan output. Only results/synthetic/ and results/radio/ are committed; extracted
+# audio clips and intermediate scans are regenerated with `cutmatches`.
+/results/*
+!/results/synthetic/
+!/results/radio/
+
+# Local copies of the reference clips; the canonical copies live in testdata/adverts/.
+/ad_*.mpeg
+
+# Papers, receipts, and personal notes
+*.pdf
+/r.json
+/IZAH.md
+/post.txt
+
+# Editor / OS
+.DS_Store
+*.swp

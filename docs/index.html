@@ -1,0 +1,364 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>audio-ad-detection — Results</title>
+<meta name="description" content="Official detection results of audio-ad-detection on three days of Azerbaijani radio: 1,153 recordings, 684 advertisement airings, every one playable.">
+<style>
+:root{
+  color-scheme:light;
+  --bg:#f7f7f5; --surface:#fcfcfb; --border:#e4e3df; --grid:#ecebe7;
+  --text:#0b0b0b; --text-2:#52514e; --muted:#7a7974; --accent:#2a78d6;
+  --s1:#2a78d6; --s2:#eb6834; --s3:#1baf7a; --hover:rgba(0,0,0,.04);
+}
+@media (prefers-color-scheme:dark){
+  :root:where(:not([data-theme="light"])){
+    color-scheme:dark;
+    --bg:#121211; --surface:#1a1a19; --border:#2e2e2b; --grid:#272725;
+    --text:#ffffff; --text-2:#c3c2b7; --muted:#8f8e86; --accent:#3987e5;
+    --s1:#3987e5; --s2:#d95926; --s3:#199e70; --hover:rgba(255,255,255,.05);
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#121211; --surface:#1a1a19; --border:#2e2e2b; --grid:#272725;
+  --text:#ffffff; --text-2:#c3c2b7; --muted:#8f8e86; --accent:#3987e5;
+  --s1:#3987e5; --s2:#d95926; --s3:#199e70; --hover:rgba(255,255,255,.05);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}
+.wrap{max-width:1120px;margin:0 auto;padding:32px 16px 64px}
+header{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap;margin-bottom:28px}
+h1{font-size:28px;line-height:1.2;margin:0 0 6px}
+h2{font-size:18px;margin:0 0 4px}
+.sub{color:var(--text-2);margin:0;max-width:720px}
+.btn{display:inline-block;padding:8px 14px;border:1px solid var(--border);border-radius:8px;background:var(--surface);color:var(--text);text-decoration:none;font-size:14px;white-space:nowrap}
+.btn:hover{background:var(--hover)}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:20px;margin-bottom:20px}
+.note{color:var(--muted);font-size:13px;margin:4px 0 14px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin-bottom:20px}
+.kpi{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:16px}
+.kpi .v{font-size:28px;font-weight:650;font-variant-numeric:tabular-nums;line-height:1.1}
+.kpi .l{color:var(--text-2);font-size:13px;margin-top:4px}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+@media (max-width:820px){.grid2{grid-template-columns:1fr}}
+.legend{display:flex;gap:16px;flex-wrap:wrap;font-size:13px;color:var(--text-2);margin-bottom:8px}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.sw{width:10px;height:10px;border-radius:3px;display:inline-block}
+svg{display:block;width:100%;height:auto;overflow:visible}
+svg text{fill:var(--text-2);font-size:11px;font-family:inherit}
+.tip{position:fixed;pointer-events:none;background:var(--surface);color:var(--text);border:1px solid var(--border);border-radius:8px;padding:8px 10px;font-size:12px;box-shadow:0 4px 16px rgba(0,0,0,.12);display:none;z-index:10;min-width:120px}
+.tip b{display:block;margin-bottom:4px}
+.tip .row{display:flex;justify-content:space-between;gap:12px}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{padding:8px;border-bottom:1px solid var(--grid);text-align:left;vertical-align:middle}
+th{color:var(--text-2);font-weight:600;font-size:13px}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+.tscroll{overflow-x:auto}
+.days{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
+.day{border:1px solid var(--border);border-radius:10px;padding:14px}
+.day .d{font-weight:650}
+.day .m{color:var(--text-2);font-size:13px}
+.bar{display:flex;height:8px;border-radius:4px;overflow:hidden;gap:2px;margin:10px 0 6px}
+.filters{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0}
+.filters label{display:flex;flex-direction:column;font-size:12px;color:var(--text-2);gap:4px}
+select,input{font:inherit;font-size:14px;padding:6px 8px;border:1px solid var(--border);border-radius:8px;background:var(--surface);color:var(--text);min-width:120px}
+audio{height:32px;width:220px;max-width:100%}
+.ad{display:inline-flex;align-items:center;gap:6px;font-weight:600}
+.pager{display:flex;gap:8px;align-items:center;justify-content:flex-end;margin-top:12px;font-size:13px;color:var(--text-2)}
+.pager button{font:inherit;padding:6px 12px;border:1px solid var(--border);border-radius:8px;background:var(--surface);color:var(--text);cursor:pointer}
+.pager button:disabled{opacity:.4;cursor:default}
+.small{font-size:13px;color:var(--text-2)}
+ul.plain{margin:8px 0 0;padding-left:18px;color:var(--text-2)}
+footer{color:var(--muted);font-size:13px;margin-top:32px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>audio-ad-detection — Results</h1>
+      <p class="sub">Official output of the detector on three days of Azerbaijani radio (2026-06-11 to 2026-06-13). Every one of the 684 detected advertisement airings below can be played back and checked by ear.</p>
+    </div>
+    <a class="btn" href="https://github.com/abdullaabdullazade/audio-ad-detection">View source on GitHub</a>
+  </header>
+
+  <div class="kpis" id="kpis"></div>
+
+  <section class="card">
+    <h2>Per day</h2>
+    <p class="note">Each scan covered every 61-minute recording of the day, with 8 workers and the default confidence threshold of 0.5.</p>
+    <div class="days" id="days"></div>
+  </section>
+
+  <div class="grid2">
+    <section class="card">
+      <h2>Airings by station</h2>
+      <p class="note">12 of the 16 scanned stations aired at least one of the three reference adverts.</p>
+      <div class="legend" id="lg1"></div>
+      <div id="chStation"></div>
+    </section>
+    <section class="card">
+      <h2>Airings by hour of day</h2>
+      <p class="note">Clock time of each detected airing, all three days combined.</p>
+      <div class="legend" id="lg2"></div>
+      <div id="chHour"></div>
+    </section>
+  </div>
+
+  <section class="card">
+    <h2>Confidence distribution</h2>
+    <p class="note">Number of detections per confidence bin. Detections below 0.5 are discarded.</p>
+    <div id="chConf"></div>
+  </section>
+
+  <section class="card">
+    <h2>All detections</h2>
+    <p class="note">Each clip is the detected airing with 2 s of context on each side.</p>
+    <div class="filters">
+      <label>Day<select id="fDay"><option value="">All days</option></select></label>
+      <label>Advert<select id="fAd"><option value="">All adverts</option></select></label>
+      <label>Station<select id="fSt"><option value="">All stations</option></select></label>
+      <label>Min confidence<select id="fConf"><option value="0">Any</option><option value="0.9">≥ 0.90</option><option value="0.99">≥ 0.99</option></select></label>
+    </div>
+    <div class="small" id="count"></div>
+    <div class="tscroll">
+      <table>
+        <thead><tr><th>Play</th><th>Advert</th><th>Station</th><th>Clock time</th><th class="num">Offset (s)</th><th class="num">Duration (s)</th><th class="num">Confidence</th></tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+    <div class="pager"><button id="prev">Previous</button><span id="page"></span><button id="next">Next</button></div>
+    <p class="small">Raw data: <a href="data/detections.json">detections.json</a> · <a href="data/2026-06-11.csv">2026-06-11.csv</a> · <a href="data/2026-06-12.csv">2026-06-12.csv</a> · <a href="data/2026-06-13.csv">2026-06-13.csv</a></p>
+  </section>
+
+  <section class="card">
+    <h2>Synthetic benchmark</h2>
+    <p class="note">Labelled corpus generated by <code>cmd/gencorpus</code> from the three reference clips: 51 recordings, 50 airings per seed, covering every broadcast transformation the detector targets.</p>
+    <div class="tscroll"><table id="syn"></table></div>
+  </section>
+
+  <section class="card">
+    <h2>How to read these results</h2>
+    <ul class="plain">
+      <li>The radio archive has no ground-truth labels, so the 684 detections are not a precision or recall figure. They are published in full so anyone can listen and judge.</li>
+      <li>Confidence is a global score from DTW alignment quality and spectral-peak agreement; it is comparable across adverts.</li>
+      <li>Latency is the wall time to process one 61-minute recording against all three adverts.</li>
+      <li>The full recordings (about 32 GB) are not published; only the detected excerpts are.</li>
+    </ul>
+  </section>
+
+  <footer>Built from <code>results/radio/*.json</code> in the repository. MIT licensed.</footer>
+</div>
+<div class="tip" id="tip"></div>
+
+<script>
+const ADS = ["ad_1", "ad_2", "ad_3"];
+const COLOR = { ad_1: "var(--s1)", ad_2: "var(--s2)", ad_3: "var(--s3)" };
+const NS = "http://www.w3.org/2000/svg";
+const fmt = n => n.toLocaleString("en-US");
+const tip = document.getElementById("tip");
+
+function el(tag, attrs = {}, parent) {
+  const e = document.createElementNS(NS, tag);
+  for (const k in attrs) e.setAttribute(k, attrs[k]);
+  if (parent) parent.appendChild(e);
+  return e;
+}
+function showTip(ev, title, rows) {
+  tip.innerHTML = `<b>${title}</b>` + rows.map(([k, v]) => `<div class="row"><span>${k}</span><span>${v}</span></div>`).join("");
+  tip.style.display = "block";
+  const w = tip.offsetWidth, h = tip.offsetHeight;
+  let x = ev.clientX + 14, y = ev.clientY + 14;
+  if (x + w > innerWidth - 8) x = ev.clientX - w - 14;
+  if (y + h > innerHeight - 8) y = ev.clientY - h - 14;
+  tip.style.left = x + "px"; tip.style.top = y + "px";
+}
+function hideTip() { tip.style.display = "none"; }
+function legend(id) {
+  document.getElementById(id).innerHTML = ADS.map(a => `<span><i class="sw" style="background:${COLOR[a]}"></i>${a}</span>`).join("");
+}
+// Axis scale with ~4 integer ticks on a 1/2/5 step.
+function scale(v) {
+  const raw = v / 4, p = Math.pow(10, Math.floor(Math.log10(raw)));
+  const step = [1, 2, 5, 10].map(m => m * p).find(x => x >= raw);
+  return { max: Math.ceil(v / step) * step, step };
+}
+
+// Rounded data-end on a bar segment: only the outermost segment gets the 4px radius.
+function segPath(x, y, w, h, round, horizontal) {
+  const r = round ? Math.min(4, horizontal ? w : h, horizontal ? h / 2 : w / 2) : 0;
+  if (!r) return `M${x},${y}h${w}v${h}h${-w}z`;
+  if (horizontal) return `M${x},${y}h${w - r}a${r},${r} 0 0 1 ${r},${r}v${h - 2 * r}a${r},${r} 0 0 1 ${-r},${r}h${-(w - r)}z`;
+  return `M${x},${y + h}v${-(h - r)}a${r},${r} 0 0 1 ${r},${-r}h${w - 2 * r}a${r},${r} 0 0 1 ${r},${r}v${h - r}z`;
+}
+
+function stationChart(rows) {
+  const by = {};
+  rows.forEach(r => { (by[r.station] ||= { ad_1: 0, ad_2: 0, ad_3: 0, total: 0 }); by[r.station][r.ad]++; by[r.station].total++; });
+  const st = Object.keys(by).sort((a, b) => by[b].total - by[a].total);
+  const W = 520, rowH = 26, L = 110, R = 36, H = st.length * rowH + 24;
+  const { max, step } = scale(Math.max(...st.map(s => by[s].total)));
+  const sx = v => (v / max) * (W - L - R);
+  const svg = el("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Airings by station" });
+  for (let t = 0; t <= max; t += step) {
+    el("line", { x1: L + sx(t), x2: L + sx(t), y1: 0, y2: H - 20, stroke: "var(--grid)" }, svg);
+    el("text", { x: L + sx(t), y: H - 6, "text-anchor": "middle" }, svg).textContent = t;
+  }
+  st.forEach((s, i) => {
+    const y = i * rowH + 6, h = rowH - 10;
+    el("text", { x: L - 8, y: y + h / 2 + 4, "text-anchor": "end" }, svg).textContent = s;
+    let x = L;
+    const present = ADS.filter(a => by[s][a]);
+    present.forEach((a, j) => {
+      const w = sx(by[s][a]) - (j < present.length - 1 ? 2 : 0);
+      el("path", { d: segPath(x, y, Math.max(w, 1), h, j === present.length - 1, true), fill: COLOR[a] }, svg);
+      x += sx(by[s][a]);
+    });
+    el("text", { x: x + 6, y: y + h / 2 + 4 }, svg).textContent = by[s].total;
+    const hit = el("rect", { x: 0, y: i * rowH, width: W, height: rowH, fill: "transparent" }, svg);
+    hit.addEventListener("mousemove", ev => showTip(ev, s, [...ADS.map(a => [a, by[s][a]]), ["Total", by[s].total]]));
+    hit.addEventListener("mouseleave", hideTip);
+  });
+  document.getElementById("chStation").appendChild(svg);
+}
+
+function hourChart(rows) {
+  const by = Array.from({ length: 24 }, () => ({ ad_1: 0, ad_2: 0, ad_3: 0, total: 0 }));
+  rows.forEach(r => { const h = +r.clock.slice(11, 13); by[h][r.ad]++; by[h].total++; });
+  const W = 520, H = 260, L = 32, B = 22, T = 8;
+  const { max, step } = scale(Math.max(...by.map(b => b.total)));
+  const bw = (W - L) / 24, sy = v => (v / max) * (H - B - T);
+  const svg = el("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Airings by hour of day" });
+  for (let t = 0; t <= max; t += step) {
+    el("line", { x1: L, x2: W, y1: H - B - sy(t), y2: H - B - sy(t), stroke: "var(--grid)" }, svg);
+    el("text", { x: L - 6, y: H - B - sy(t) + 4, "text-anchor": "end" }, svg).textContent = t;
+  }
+  by.forEach((b, hr) => {
+    const x = L + hr * bw + 2, w = bw - 4;
+    let y = H - B;
+    const present = ADS.filter(a => b[a]);
+    present.forEach((a, j) => {
+      const h = sy(b[a]) - (j < present.length - 1 ? 2 : 0);
+      y -= sy(b[a]);
+      el("path", { d: segPath(x, y + (j < present.length - 1 ? 2 : 0), w, Math.max(h, 1), j === present.length - 1, false), fill: COLOR[a] }, svg);
+    });
+    if (hr % 3 === 0) el("text", { x: x + w / 2, y: H - 6, "text-anchor": "middle" }, svg).textContent = String(hr).padStart(2, "0");
+    const hit = el("rect", { x: L + hr * bw, y: 0, width: bw, height: H, fill: "transparent" }, svg);
+    hit.addEventListener("mousemove", ev => showTip(ev, `${String(hr).padStart(2, "0")}:00–${String(hr).padStart(2, "0")}:59`, [...ADS.map(a => [a, b[a]]), ["Total", b.total]]));
+    hit.addEventListener("mouseleave", hideTip);
+  });
+  document.getElementById("chHour").appendChild(svg);
+}
+
+function confChart(rows) {
+  const edges = [0.5, 0.6, 0.7, 0.8, 0.9, 0.95, 0.99, 1.0001];
+  const labels = ["0.50–0.60", "0.60–0.70", "0.70–0.80", "0.80–0.90", "0.90–0.95", "0.95–0.99", "≥ 0.99"];
+  const counts = labels.map((_, i) => rows.filter(r => r.confidence >= edges[i] && r.confidence < edges[i + 1]).length);
+  const narrow = document.getElementById("chConf").clientWidth < 600;
+  const W = narrow ? 520 : 1040, H = narrow ? 240 : 200, L = 40, B = 24, T = 18;
+  const { max, step } = scale(Math.max(...counts));
+  const bw = (W - L) / counts.length, sy = v => (v / max) * (H - B - T);
+  const svg = el("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Confidence distribution" });
+  for (let t = 0; t <= max; t += step) {
+    el("line", { x1: L, x2: W, y1: H - B - sy(t), y2: H - B - sy(t), stroke: "var(--grid)" }, svg);
+    el("text", { x: L - 6, y: H - B - sy(t) + 4, "text-anchor": "end" }, svg).textContent = t;
+  }
+  counts.forEach((c, i) => {
+    const w = Math.min(bw - 16, 90), x = L + i * bw + (bw - w) / 2, h = Math.max(sy(c), c ? 1 : 0);
+    if (h) el("path", { d: segPath(x, H - B - h, w, h, true, false), fill: "var(--s1)" }, svg);
+    el("text", { x: x + w / 2, y: H - B - h - 5, "text-anchor": "middle", style: "fill:var(--text)" }, svg).textContent = c;
+    el("text", { x: x + w / 2, y: H - 6, "text-anchor": "middle", style: narrow ? "font-size:9px" : "" }, svg).textContent = labels[i];
+    const hit = el("rect", { x: L + i * bw, y: 0, width: bw, height: H, fill: "transparent" }, svg);
+    hit.addEventListener("mousemove", ev => showTip(ev, `Confidence ${labels[i]}`, [["Detections", c], ["Share", (100 * c / rows.length).toFixed(1) + "%"]]));
+    hit.addEventListener("mouseleave", hideTip);
+  });
+  document.getElementById("chConf").appendChild(svg);
+}
+
+function render(data) {
+  const cols = data.columns;
+  const rows = data.rows.map(r => Object.fromEntries(cols.map((c, i) => [c, r[i]])));
+  const runs = data.runs, days = Object.keys(runs);
+  const sum = k => days.reduce((s, d) => s + runs[d][k], 0);
+  const lat = days.map(d => runs[d].latency_p50_sec);
+
+  const kpis = [
+    [fmt(sum("records")), "recordings scanned (61 min each)"],
+    [fmt(Math.round(sum("audio_hours"))), "hours of radio audio"],
+    ["16", "radio stations"],
+    [fmt(rows.length), "advertisement airings found"],
+    [(lat.reduce((a, b) => a + b) / lat.length).toFixed(1) + " s", "median time per recording"],
+    [data.synthetic.holdout.f1.toFixed(3), "F1 on held-out synthetic set"],
+  ];
+  document.getElementById("kpis").innerHTML = kpis.map(([v, l]) => `<div class="kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
+
+  document.getElementById("days").innerHTML = days.map(d => {
+    const r = runs[d], dr = rows.filter(x => x.day === d);
+    const per = ADS.map(a => [a, dr.filter(x => x.ad === a).length]);
+    return `<div class="day"><div class="d">${d}</div>
+      <div class="m">${fmt(r.records)} recordings · ${r.audio_hours.toFixed(0)} h audio</div>
+      <div class="bar">${per.filter(p => p[1]).map(([a, n]) => `<span style="flex:${n};background:${COLOR[a]}" title="${a}: ${n}"></span>`).join("")}</div>
+      <div><b>${fmt(dr.length)}</b> airings <span class="m">(${per.map(([a, n]) => `${a} ${n}`).join(" · ")})</span></div>
+      <div class="m">Latency p50 / p95 / p99: ${r.latency_p50_sec.toFixed(1)} / ${r.latency_p95_sec.toFixed(1)} / ${r.latency_p99_sec.toFixed(1)} s</div>
+      <div class="m">${r.throughput_records_per_min.toFixed(1)} recordings/min · peak RSS ${(r.peak_rss_mb / 1024).toFixed(1)} GB · ${r.decode_failures} decode failures</div></div>`;
+  }).join("");
+
+  legend("lg1"); legend("lg2");
+  stationChart(rows); hourChart(rows); confChart(rows);
+
+  // Synthetic benchmark
+  const s = data.synthetic;
+  const metric = (k, f) => `<tr><td>${k}</td><td class="num">${f(s.dev)}</td><td class="num">${f(s.holdout)}</td></tr>`;
+  document.getElementById("syn").innerHTML =
+    `<thead><tr><th>Metric</th><th class="num">Dev (seed 1)</th><th class="num">Held-out (seed 777)</th></tr></thead><tbody>` +
+    metric("True / false positives / misses", x => `${x.tp} / ${x.fp} / ${x.fn}`) +
+    metric("Recall", x => x.recall.toFixed(3)) +
+    metric("Precision", x => x.precision.toFixed(3)) +
+    metric("F1", x => x.f1.toFixed(3)) +
+    metric("Timestamp error, median", x => x.timestamp_median.toFixed(3) + " s") +
+    metric("Timestamp error, p95", x => x.timestamp_p95.toFixed(3) + " s") +
+    Object.keys(s.dev.per_class).sort().map(c => metric(`Class: ${c.replace(/_/g, " ")}`, x => `${x.per_class[c].TP} / ${x.per_class[c].Occurrences}`)).join("") +
+    `</tbody>`;
+
+  // Table with filters
+  const fDay = document.getElementById("fDay"), fAd = document.getElementById("fAd"), fSt = document.getElementById("fSt"), fConf = document.getElementById("fConf");
+  days.forEach(d => fDay.add(new Option(d, d)));
+  ADS.forEach(a => fAd.add(new Option(a, a)));
+  [...new Set(rows.map(r => r.station))].sort().forEach(st => fSt.add(new Option(st, st)));
+  const PAGE = 25; let page = 0, view = rows;
+  const tbody = document.getElementById("rows");
+  function apply() {
+    view = rows.filter(r => (!fDay.value || r.day === fDay.value) && (!fAd.value || r.ad === fAd.value) && (!fSt.value || r.station === fSt.value) && r.confidence >= +fConf.value)
+      .sort((a, b) => a.clock < b.clock ? -1 : a.clock > b.clock ? 1 : 0);
+    page = 0; draw();
+  }
+  function draw() {
+    const pages = Math.max(1, Math.ceil(view.length / PAGE));
+    const slice = view.slice(page * PAGE, page * PAGE + PAGE);
+    tbody.innerHTML = slice.map(r => `<tr>
+      <td><audio controls preload="none" src="data/${r.day}/${encodeURIComponent(r.clip)}"></audio></td>
+      <td><span class="ad"><i class="sw" style="background:${COLOR[r.ad]}"></i>${r.ad}</span></td>
+      <td>${r.station}</td><td>${r.clock}</td>
+      <td class="num">${r.time_sec.toFixed(1)}</td><td class="num">${r.duration_sec.toFixed(1)}</td><td class="num">${r.confidence.toFixed(3)}</td></tr>`).join("");
+    document.getElementById("count").textContent = `${fmt(view.length)} of ${fmt(rows.length)} detections`;
+    document.getElementById("page").textContent = `Page ${page + 1} of ${pages}`;
+    document.getElementById("prev").disabled = page === 0;
+    document.getElementById("next").disabled = page >= pages - 1;
+  }
+  [fDay, fAd, fSt, fConf].forEach(f => f.addEventListener("change", apply));
+  document.getElementById("prev").onclick = () => { page--; draw(); };
+  document.getElementById("next").onclick = () => { page++; draw(); };
+  // Only one clip plays at a time.
+  tbody.addEventListener("play", e => tbody.querySelectorAll("audio").forEach(a => a !== e.target && a.pause()), true);
+  apply();
+}
+
+fetch("data/detections.json").then(r => r.json()).then(render).catch(err => {
+  document.getElementById("kpis").innerHTML = `<div class="kpi">Could not load data/detections.json: ${err}</div>`;
+});
+</script>
+</body>
+</html>
