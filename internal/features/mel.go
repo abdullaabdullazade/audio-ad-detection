@@ -157,11 +157,36 @@ func l2Normalize(v []float32) {
 	}
 }
 
-// Cosine returns the dot product of two L2-normalized vectors (== cosine similarity).
+// Cosine returns the dot product of two L2-normalized vectors
+// (cosine similarity).
+//
+// Invalid or non-finite feature values represent an unusable
+// comparison, so return zero similarity rather than allowing
+// NaN or Inf to propagate into detector scores and JSON output.
 func Cosine(a, b []float32) float64 {
-	var s float64
-	for i := range a {
-		s += float64(a[i]) * float64(b[i])
+	if len(a) != len(b) {
+		return 0
 	}
-	return s
+	var sum float64
+	for i := range a {
+		product := float64(a[i]) * float64(b[i])
+		if math.IsNaN(product) ||
+			math.IsInf(product, 0) {
+			return 0
+		}
+		sum += product
+		if math.IsNaN(sum) ||
+			math.IsInf(sum, 0) {
+			return 0
+		}
+	}
+	// Normal floating-point accumulation can exceed the
+	// mathematical cosine bounds by a tiny amount.
+	if sum > 1 {
+		return 1
+	}
+	if sum < -1 {
+		return -1
+	}
+	return sum
 }
