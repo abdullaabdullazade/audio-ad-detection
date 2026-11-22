@@ -101,11 +101,7 @@ func Decode(ctx context.Context, path string, opt DecodeOptions) (PCM, error) {
 	}
 
 	n := len(raw) / 4
-	samples := make([]float32, n)
-	for i := 0; i < n; i++ {
-		bits := uint32(raw[4*i]) | uint32(raw[4*i+1])<<8 | uint32(raw[4*i+2])<<16 | uint32(raw[4*i+3])<<24
-		samples[i] = math.Float32frombits(bits)
-	}
+	samples := pcmFromF32LE(raw, n)
 	if n == 0 {
 		return PCM{}, fmt.Errorf("%w: decoded to zero samples", ErrInvalidInput)
 	}
@@ -158,11 +154,7 @@ func DecodeSegment(ctx context.Context, path string, startSec, durSec float64, o
 		return PCM{}, fmt.Errorf("%w: ffmpeg segment: %v: %s", ErrInvalidInput, waitErr, stderr.String())
 	}
 	n := len(raw) / 4
-	samples := make([]float32, n)
-	for i := 0; i < n; i++ {
-		bits := uint32(raw[4*i]) | uint32(raw[4*i+1])<<8 | uint32(raw[4*i+2])<<16 | uint32(raw[4*i+3])<<24
-		samples[i] = math.Float32frombits(bits)
-	}
+	samples := pcmFromF32LE(raw, n)
 	return PCM{SampleRate: opt.SampleRate, Samples: samples}, nil
 }
 
@@ -186,3 +178,19 @@ func (c *capBuf) Write(p []byte) (int, error) {
 }
 
 func (c *capBuf) String() string { return string(c.buf) }
+
+// pcmFromF32LE converts n little-endian float32 samples to PCM. Non-finite samples
+// (NaN/Inf from a corrupt or hostile float stream) are zeroed so they cannot poison
+// the spectrogram and surface as NaN scores in match output.
+func pcmFromF32LE(raw []byte, n int) []float32 {
+	samples := make([]float32, n)
+	for i := 0; i < n; i++ {
+		bits := uint32(raw[4*i]) | uint32(raw[4*i+1])<<8 | uint32(raw[4*i+2])<<16 | uint32(raw[4*i+3])<<24
+		v := math.Float32frombits(bits)
+		if math.IsNaN(float64(v)) || math.IsInf(float64(v), 0) {
+			v = 0
+		}
+		samples[i] = v
+	}
+	return samples
+}

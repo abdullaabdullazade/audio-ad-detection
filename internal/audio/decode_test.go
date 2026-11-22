@@ -90,3 +90,19 @@ func TestDecodeRejectsZeroLength(t *testing.T) {
 		t.Fatal("expected error for zero-length file")
 	}
 }
+
+func TestPCMFromF32LEZeroesNonFinite(t *testing.T) {
+	in := []float32{0.5, float32(math.NaN()), float32(math.Inf(1)), float32(math.Inf(-1)), -0.25}
+	raw := make([]byte, 4*len(in))
+	for i, v := range in {
+		b := math.Float32bits(v)
+		raw[4*i], raw[4*i+1], raw[4*i+2], raw[4*i+3] = byte(b), byte(b>>8), byte(b>>16), byte(b>>24)
+	}
+	got := pcmFromF32LE(raw, len(in))
+	want := []float32{0.5, 0, 0, 0, -0.25}
+	for i := range want {
+		if got[i] != want[i] {
+			t.Fatalf("sample %d = %v, want %v", i, got[i], want[i])
+		}
+	}
+}
